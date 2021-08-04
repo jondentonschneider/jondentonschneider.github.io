@@ -1,7 +1,7 @@
 ---
-permalink: /
+layout: archive
 title: "Personal"
-excerpt: "Personal"
+permalink: /personal/
 author_profile: true
 ---
 
