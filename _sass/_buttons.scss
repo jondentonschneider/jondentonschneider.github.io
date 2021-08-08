@@ -71,7 +71,7 @@
     background-color: $info-color;
 
     &:hover {
-      background-color: mix(#000, $info-color, 10%);
+      background-color: info-color;
     }
   }
 
