@@ -242,6 +242,7 @@
       }
 
       &:hover:before {
+        background: mix(#fff, $info-color, 50%);
         -webkit-transform: scaleX(1);
             -ms-transform: scaleX(1);
                 transform: scaleX(1); /* reveal*/
