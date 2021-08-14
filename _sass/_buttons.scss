@@ -23,8 +23,7 @@
   cursor: pointer;
 
   &:hover {
-    background-color: $info-color;
-    text-color: #fff;
+    background-color: mix(white, $info-color, 20%);
   }
 
   .icon {
@@ -54,9 +53,8 @@
     background-color: #fff;
 
     &:hover {
-      color: $info-color !important;
+      color: #fff !important;
       border-color: $gray;
-      text-color: #fff;
     }
   }
 
@@ -73,8 +71,7 @@
     background-color: $info-color;
 
     &:hover {
-      text-color: #fff;
-      background-color: $info-color;
+      background-color: mix(#000, $info-color, 20%);
     }
   }
 
@@ -128,10 +125,13 @@
 
   @each $socialnetwork, $color in $social {
     &--#{$socialnetwork} {
-      background-color: $color;
+      color: #fff !important;
+      background-color: $color !important;
+      border: 0 !important;
 
       &:hover {
-        background-color: mix(#000, $color, 20%);
+        color: #fff !important;
+        background-color: mix(#000, $color, 20%) !important;
       }
     }
   }
@@ -153,4 +153,3 @@
   &--small {
     font-size: $type-size-7;
   }
-}
