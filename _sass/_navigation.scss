@@ -175,7 +175,7 @@
 .greedy-nav {
   position: relative;
   min-width: 250px;
-  background: $info-color;
+  background: $background-color;
 
   a {
     display: block;
@@ -199,6 +199,10 @@
     background-color: $primary-color;
     color: #fff;
     cursor: pointer;
+     
+    &:hover {
+      color: $info-color;
+    }
   }
 
   .visible-links {
