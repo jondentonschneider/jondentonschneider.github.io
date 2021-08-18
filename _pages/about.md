@@ -1,7 +1,7 @@
 ---
 permalink: /
 title: "About Me"
-seo_title: "Economics PhD Candidate University of Michigan"
+seo_title: "Economics PhD Candidate at the University of Michigan"
 excerpt: "I am a sixth-year PhD candidate in Economics at the University of Michigan studying development economics and economic history with a focus on human capital."
 author_profile: true
 redirect_from: 
