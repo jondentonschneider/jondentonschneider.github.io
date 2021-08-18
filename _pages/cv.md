@@ -8,3 +8,5 @@ redirect_from:
 ---
 
 {% include base_path %}
+
+<embed src="https://jondentonschneider.com/files/Denton-Schneider_CV_2021_08.pdf" type="application/pdf" width="600px" height="500px" />
