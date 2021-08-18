@@ -1,7 +1,8 @@
 ---
 layout: archive
 title: "Teaching"
-excerpt: "I taught 2 sections of Econ 101 at the University of Michigan and 6 classes of Spanish 101 at the University of Arizona."
+seo_title: "Teaching Economics as a Language - Jon Denton-Schneider"
+excerpt: "I taught 2 sections of Econ 101 at the University of Michigan and 5 Spanish classes at the University of Arizona."
 permalink: /teaching/
 author_profile: true
 ---
