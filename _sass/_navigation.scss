@@ -201,6 +201,7 @@
     cursor: pointer;
      
     &:hover {
+      color: $select-color;
       background-color: $info-color;
     }
   }
