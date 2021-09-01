@@ -14,7 +14,7 @@ I <a href="https://arizonawildcats.com/sports/mens-swimming-and-diving/roster/jo
 <ul>
 <li>Media coverage: <a href="https://www.kold.com/story/30006001/i-was-a-bald-gay-wildcat-former-ua-swimmer-explains-coming-out-essay/"><i>KOLD News 13</i></a>, <a href="https://phoenix.outvoices.us/coming-out-to-the-team/"><i>Outvoices Phoenix</i></a>
 </ul>
-  </p>
+</p>
 
 ### Promoting Inclusion in Sports
 
