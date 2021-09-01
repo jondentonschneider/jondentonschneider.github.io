@@ -23,7 +23,7 @@ Colonial Institutions, Marriage Markets, and HIV: Evidence from Mozambique (<i>j
 <h3>Work in Progress</h3>
 
 <p align="justify">
-Health, Income, and Public Spending in the Developing World: Evidence from Brazil's Eradication of Chagas Disease (<i>with <a href="https://www.eduardo-montero.com/">Eduardo Montero</a></i>)
+Health, Income, and Public Spending in a Developing Economy: Evidence from Brazil's Eradication of Chagas Disease (<i>with <a href="https://www.eduardo-montero.com/">Eduardo Montero</a></i>)
 </p>
 
 <p align="justify">
