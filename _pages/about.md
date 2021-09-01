@@ -2,7 +2,7 @@
 permalink: /
 title: "About Me"
 seo_title: "Jon Denton-Schneider - Economics PhD Candidate at the University of Michigan"
-excerpt: "I am a PhD candidate in Economics at the University of Michigan studying development and history with a focus on human capital."
+excerpt: "I am a Economics PhD candidate at the University of Michigan studying development and history with a focus on human capital."
 author_profile: true
 redirect_from: 
   - /about/
