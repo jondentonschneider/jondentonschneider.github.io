@@ -19,7 +19,7 @@ My <a href="https://jondentonschneider/com/research">research</a> shows how colo
   </p>
 
 <p align="justify">
-I hold an MA in <a href="https://las.arizona.edu/">Latin American Studies</a> from the University of Arizona and taught Spanish courses, an experience that informs <a href="https://jondentonschneider.com/teaching">how I teach economics</a>. I was also an undergraduate at Arizona, where I competed for the Men's Swimming Team as an <a href="https://jondentonschneider.com/personal">openly gay NCAA Division I student-athlete</a> and worked to increase inclusion in college sports.
+I hold an MA in <a href="https://las.arizona.edu/">Latin American Studies</a> from the University of Arizona and taught Spanish courses there for 2 years, an experience that informs <a href="https://jondentonschneider.com/teaching">how I teach economics</a>. I was also an undergraduate at Arizona, where I competed for the Men's Swimming Team as an <a href="https://jondentonschneider.com/personal">openly gay NCAA Division I student-athlete</a> and worked to increase inclusion in college sports.
 </p>
     
 <p align="justify">
