@@ -15,12 +15,12 @@ Economics 101: Principles of Microeconomics (*GSI for Prof. Justin Wolfers, Fall
 - Taught 2 discussion sections of 25 students
 
 Economics 490: Ethics of Economic Behavior (*GSI for Prof. Ben Zamzow, Fall 2017-Spring 2018*)
-- Grader for Upper-Level Writing Requirement course
+- Grader for 2 Upper-Level Writing Requirement courses
 
 ### University of Arizona
 
 Spanish 202: Fourth-Semester Spanish (*Instructor of record, Spring 2014*)
-- Taught 1 class of 25 students
+- Taught 1 course of 25 students
 
 Spanish 101: First-Semester Spanish (*Instructor of record, Fall 2013-Spring 2015*)
 - Taught 4 courses of 25 students
