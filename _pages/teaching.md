@@ -15,7 +15,7 @@ Economics 101: Principles of Microeconomics (*GSI for Prof. Justin Wolfers, Fall
 - Taught 2 discussion sections of 25 students
 
 Economics 490: Ethics of Economic Behavior (*GSI for Prof. Ben Zamzow, Fall 2017-Spring 2018*)
-- Grader for 2 Upper-Level Writing Requirement courses
+- Grader for 2 Upper-Level Writing Requirement courses of 50 students
 
 ### University of Arizona
 
