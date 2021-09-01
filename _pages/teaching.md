@@ -11,7 +11,7 @@ author_profile: true
 Drawing on my experience as a Spanish instructor, I teach economics as a new language that students can master by practicing it in the classroom, identifying and engaging with it in the real world, and communicating as simply as possible while they build up their vocabularies. Teaching evaluations are available upon request.
 </p>
   
-### University of Michigan
+<h3>University of Michigan</h3>
 
 <p align="justify">
 Economics 101: Principles of Microeconomics (<i>GSI for Prof. Justin Wolfers, Fall 2018</i>)
@@ -27,7 +27,7 @@ Economics 490: Ethics of Economic Behavior (<i>GSI for Prof. Ben Zamzow, Fall 20
 </ul>
 </p>
 
-### University of Arizona
+<h3>University of Arizona</h3>
 
 <p align="justify">
   Spanish 202: Fourth-Semester Spanish (<i>Instructor of record, Spring 2014</i>)
