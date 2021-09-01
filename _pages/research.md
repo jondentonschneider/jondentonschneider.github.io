@@ -19,12 +19,12 @@ Colonial Institutions, Marriage Markets, and HIV: Evidence from Mozambique (<i>j
   <li><div align="justify"><i>Abstract</i>: This paper links Africa’s history to its HIV epidemic through colonial institutions’ lasting effects on marriage markets. I exploit the arbitrary border within Mozambique between two regimes common across the continent: one that pushed over 50,000 young men annually into temporary labor migration (1897-1965) and another that conscripted them into forced labor (1891-1942). Historians contend the migrant-sending institution fundamentally altered marriage markets in that region. Using colonial census data, I show that young men there married earlier and were closer in age to their wives, even after the forced labor institution ended and migration rates had converged. Because smaller age disparities reduce HIV risk, I examine seroprevalence today and find it is nearly 50 percent (10 p.p.) lower in the former migrant-sending region. The data suggest that persistently smaller age disparities and reductions in behaviors associated with them are the main channel for this effect.</div></li>
 </ul>
 </p>
-  
-<h3>Work in Progress</h3>
 
 <p align="justify">
 Health, Income, and Public Spending in a Developing Economy: Evidence from Brazil's Eradication of Chagas Disease (<i>with <a href="https://www.eduardo-montero.com/">Eduardo Montero</a></i>)
 </p>
+  
+<h3>Work in Progress</h3>
 
 <p align="justify">
 Neglected Tropical Diseases Can Worsen HIV Epidemics: Evidence from Schistosomiasis Control in Southern Africa
