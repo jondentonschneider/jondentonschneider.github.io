@@ -15,7 +15,7 @@ I am a PhD candidate in the <a href="https://lsa.umich.edu/econ">Department of E
 </p>
 
 <p align="justify">
-My <a href="https://jondentonschneider/com/research">research</a> shows how colonial institutions shaped the HIV epidemic in Mozambique through their lasting impacts on marriage and dating markets. In <a href="https://jondentonschneider/com/research">my other projects</a>, I examine the effects of infectious disease eradication during childhood on adult income, health, labor productivity, marriage, and public expenditures.
+My <a href="https://jondentonschneider.com/research">research</a> shows how colonial institutions shaped the HIV epidemic in Mozambique through their lasting impacts on marriage and dating markets. In <a href="https://jondentonschneider.com/research">my other projects</a>, I examine the effects of infectious disease eradication during childhood on adult income, health, labor productivity, marriage, and public expenditures.
   </p>
 
 <p align="justify">
