@@ -11,7 +11,7 @@ author_profile: true
 I study how history can affect human capital accumulation and other important inputs into long-run economic development. I focus primarily on infectious diseases in Sub-Saharan Africa and Latin America.
 </p>
 
-### Working Papers
+<h3>Working Papers</h3>
 
 <p align="justify">
 Colonial Institutions, Marriage Markets, and HIV: Evidence from Mozambique [<i>job market paper, draft available upon request</i>]
@@ -20,7 +20,7 @@ Colonial Institutions, Marriage Markets, and HIV: Evidence from Mozambique [<i>j
 </ul>
 </p>
   
-### Work in Progress
+<h3>Work in Progress</h3>
 
 <p align="justify">
 Health, Income, and Public Spending in the Developing World: Evidence from Brazil's Eradication of Chagas Disease [<i>with <a href="https://www.eduardo-montero.com/">Eduardo Montero</a></i>]
