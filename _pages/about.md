@@ -16,4 +16,6 @@ My [job market paper](research) shows how colonial institutions shaped the HIV e
 
 I hold an MA in [Latin American Studies](https://las.arizona.edu/) from the University of Arizona, where I [taught Spanish courses](teaching) and was an undergraduate. I also competed for the Men's Swimming Team as an [openly gay NCAA Division I student-athlete](personal).
 
+My CV is [here](cv).
+
 I am on the job market in 2021-22 and will be available for interviews.
