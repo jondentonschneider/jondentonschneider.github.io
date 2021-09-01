@@ -12,19 +12,15 @@ Drawing on my experience as a Spanish instructor, I teach economics as a new lan
 ### University of Michigan
 
 Economics 101: Principles of Microeconomics (*GSI for Prof. Justin Wolfers, Fall 2018*)
-
 - Taught 2 discussion sections of 25 students
 
 Economics 490: Ethics of Economic Behavior (*GSI for Prof. Ben Zamzow, Fall 2017-Spring 2018*)
-
 - Grader for Upper-Level Writing Requirement course
 
 ### University of Arizona
 
 Spanish 202: Fourth-Semester Spanish (*Instructor of record, Spring 2014*)
-
 - Taught 1 class of 25 students
 
 Spanish 101: First-Semester Spanish (*Instructor of record, Fall 2013-Spring 2015*)
-
 - Taught 4 courses of 25 students
