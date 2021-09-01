@@ -7,7 +7,7 @@ permalink: /personal/
 author_profile: true
 ---
 
-### Out Gay Student-Athlete
+<h3>Out Gay Student-Athlete</h3>
 
 <p align="justify">
 I <a href="https://arizonawildcats.com/sports/mens-swimming-and-diving/roster/jon-denton-schneider/4190">swam for the University of Arizona</a> and came out as gay to my team while competing. I wrote about my experience in an essay for <a href="https://www.outsports.com/2015/7/14/8938045/jon-denton-schneider-arizona-swimming-gay-coming-out"><i>Outsports</i></a>.
@@ -16,7 +16,7 @@ I <a href="https://arizonawildcats.com/sports/mens-swimming-and-diving/roster/jo
 </ul>
 </p>
 
-### Promoting Inclusion in Sports
+<h3>Promoting Inclusion in Sports</h3>
 
 <p align="justify">
 I used my platform to promote inclusion in college sports by organizing seminars within the Athletics Department and leading an initiative that resulted in over 150 student-athletes and staff publicly committing to being allies for every member of the Arizona Wildcat Family.
