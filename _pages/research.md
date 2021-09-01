@@ -39,5 +39,9 @@ Blood Taxes: The Development Effects of Colonial Conscription in French West Afr
 </p>
 
 <p align="justify">
-Neglected Tropical Diseases and Agricultural Development: Evidence from the Eradication of Guinea Worm in Nigeria
+Neglected Tropical Diseases and Agricultural Development: Evidence from Nigeria's Eradication of Guinea Worm
+</p>
+
+<p align="justify">
+The Promises and Pitfalls of Using DHS Data for Comparisons across Countries and National Borders
 </p>
