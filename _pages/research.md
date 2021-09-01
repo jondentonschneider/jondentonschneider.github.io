@@ -7,10 +7,10 @@ permalink: /research/
 author_profile: true
 ---
 
-## Working Papers
+### Working Papers
 
 This
 
-## Work in Progress
+### Work in Progress
 
 That
