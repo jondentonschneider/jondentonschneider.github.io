@@ -1,4 +1,5 @@
 ---
+layout: archive
 permalink: /
 title: "About Me"
 seo_title: "Jon Denton-Schneider - Economics PhD Candidate at the University of Michigan"
