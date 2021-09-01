@@ -19,7 +19,8 @@ I <a href="https://arizonawildcats.com/sports/mens-swimming-and-diving/roster/jo
 ### Promoting Inclusion in Sports
 
 <p align="justify">
-I used my platform to promote inclusion in college sports by organizing seminars within the Athletics Department and leading an initiative that resulted in over 150 student-athletes and staff publicly committing to allyship for every member of the Arizona Wildcat Family.
+I used my platform to promote inclusion in college sports by organizing seminars within the Athletics Department and leading an initiative that resulted in over 150 student-athletes and staff publicly committing to being allies for every member of the Arizona Wildcat Family.
 <ul>
 <li>Media coverage: <a href="https://www.swimmingworldmagazine.com/news/lgbtqia-rights-in-the-swimming-community/"><i>Swimming World Magazine</i></a>, <a href="https://www.outsports.com/2015/11/24/9789116/arizona-wildcats-gay-lgbt-banner"><i>Outsports</i></a>
+</ul>
 </p>
