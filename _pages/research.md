@@ -7,6 +7,8 @@ permalink: /research/
 author_profile: true
 ---
 
+I study how history can affect human capital accumulation and other important inputs into long-run economic development. I focus primarily on infectious diseases in Sub-Saharan Africa and Latin America.
+
 ### Working Papers
 
 Colonial Institutions, Marriage Markets, and HIV: Evidence from Mozambique [*job market paper, draft available upon request*]
@@ -18,6 +20,6 @@ Health, Income, and Public Spending in the Developing World: Evidence from Brazi
 
 Neglected Tropical Diseases Can Worsen HIV Epidemics: Evidence from Schistosomiasis Control in Southern Africa
 
-Blood Taxes: The Effects of Colonial Conscription in French West Africa [*with [James Allen IV](https://sites.google.com/view/jamesalleniv/home)*]
-
 Pre-Colonial Medical Practices and the Success of Vaccination Campaigns: Evidence from the Eradication of Smallpox [*with [Eduardo Montero](https://www.eduardo-montero.com/)*]
+
+Blood Taxes: The Development Effects of Colonial Conscription in French West Africa [*with [James Allen IV](https://sites.google.com/view/jamesalleniv/home)*]
