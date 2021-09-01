@@ -15,6 +15,6 @@ Media coverage: [*KOLD News 13*](https://www.kold.com/story/30006001/i-was-a-bal
 
 ### Promoting Inclusion in Sports
 
-I also worked to promote inclusion in college sports by organizing seminars within the Athletics Department and leading an initiative that resulted in over 150 student-athletes and staff declaring their public support for every member of the Arizona Wildcat Family.
+I used my platform to promote inclusion in college sports by organizing seminars within the Athletics Department and leading an initiative that resulted in over 150 student-athletes and staff declaring their public support for every member of the Arizona Wildcat Family.
 
 Media coverage: [*Swimming World Magazine*](https://www.swimmingworldmagazine.com/news/lgbtqia-rights-in-the-swimming-community/), [*Outsports*](https://www.outsports.com/2015/11/24/9789116/arizona-wildcats-gay-lgbt-banner)
