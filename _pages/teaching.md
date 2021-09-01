@@ -23,7 +23,7 @@ Economics 101: Principles of Microeconomics (<i>GSI for Prof. Justin Wolfers, Fa
 <p align="justify">
 Economics 490: Ethics of Economic Behavior (<i>GSI for Prof. Ben Zamzow, Fall 2017-Spring 2018</i>)
 <ul>
-<li><div align="justify">Grader for 2 Upper-Level Writing Requirement courses of 50 students</div></li>
+<li><div align="justify">Graded and provided feedback on essays for 2 Upper-Level Writing Requirement courses of 50 students</div></li>
 </ul>
 </p>
 
