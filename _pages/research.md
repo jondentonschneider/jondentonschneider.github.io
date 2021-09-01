@@ -34,5 +34,6 @@ Neglected Tropical Diseases Can Worsen HIV Epidemics: Evidence from Schistosomia
 Pre-Colonial Medical Practices and the Success of Vaccination Campaigns: Evidence from the Eradication of Smallpox [<i>with <a href="https://www.eduardo-montero.com/">Eduardo Montero</a></i>]
 </p>
 
+<p align="justify">
 Blood Taxes: The Development Effects of Colonial Conscription in French West Africa [<i>with <a href="https://sites.google.com/view/jamesalleniv/home">James Allen IV</a></i>]
 </p>
