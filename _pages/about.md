@@ -20,6 +20,7 @@ My <a href="https://jondentonschneider/com/research">research</a> shows how colo
 
 <p align="justify">
 I hold an MA in <a href="https://las.arizona.edu/">Latin American Studies</a> from the University of Arizona, where I <a href="https://jondentonschneider.com/teaching">taught Spanish courses</a> and was an undergraduate. I also competed for the Men's Swimming Team as an <a href="https://jondentonschneider.com/personal">openly gay NCAA Division I student-athlete</a>.
+</p>
     
 <p align="justify">
   My CV is <a href="https://jondentonschneider.com/files/Denton-Schneider_CV.pdf">here</a>.
