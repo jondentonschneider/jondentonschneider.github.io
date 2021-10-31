@@ -18,6 +18,8 @@ Drawing on my experience as a Spanish instructor, I teach economics as a new lan
   <blockquote>
   <p align="justify"><i>Taught 50 students in 2 weekly discussion sections</i>
   </p>
+  <p align="justify"><i>TJon is the best</i>
+  </p>
   </blockquote>
   </details>
   </p>
