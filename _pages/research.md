@@ -46,7 +46,7 @@ The Promises and Pitfalls of Using DHS Data for Comparisons across Countries and
 <p align="justify">
 <details><summary>Blood Taxes: The Development Effects of Military Conscription in Colonial French West Africa (<i>with <a href="https://sites.google.com/view/jamesalleniv/home">James Allen IV</a></i>)</summary>
   <p align="justify">
-  <blockquote><i>Data collection in progress at the <i>Archives Nationales du Sénégal</i>, Dakar, Senegal</i></blockquote>
+  <blockquote><i>Data collection in progress at the </i>Archives Nationales du Sénégal<i>, Dakar, Senegal</i></blockquote>
   </p>
   </details>
   </p>
