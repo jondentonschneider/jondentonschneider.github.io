@@ -19,7 +19,7 @@ I am on the job market in 2021-22 and will be available for interviews. My CV is
 </p>
 
 <p align="justify">
-In my <a href="https://jondentonschneider.com/files/denton-schneider_hiv_institutions.pdf">job market paper</a>, I show how colonial institutions shaped the HIV epidemic in Mozambique through their lasting impacts on marriage and dating markets. In <a href="https://jondentonschneider.com/research">my other dissertation chapters</a>, I examine the effects of infectious disease eradication in childhood on dating behaviors and HIV prevalence in Zimbabwe, and adult income, labor productivity, fertility, and public finances in Brazil.
+In my <a href="https://jondentonschneider.com/files/denton-schneider_institutions_hiv.pdf">job market paper</a>, I show how colonial institutions shaped the HIV epidemic in Mozambique through their lasting impacts on marriage and dating markets. In <a href="https://jondentonschneider.com/research">my other dissertation chapters</a>, I examine the effects of infectious disease eradication in childhood on: dating behaviors and HIV prevalence in Zimbabwe; and adult income, labor productivity, fertility, and public finances in Brazil.
 </p>
 
 <p align="justify">
@@ -27,5 +27,5 @@ I hold an MA in <a href="https://las.arizona.edu/">Latin American Studies</a> fr
 </p>
     
 <p align="justify">
-I was also an undergraduate at Arizona, where I competed for the Men's Swimming Team as an <a href="https://jondentonschneider.com/personal">openly gay NCAA Division I student-athlete</a> and worked to increase inclusion in college athletics.
+I was also an undergraduate at Arizona, where I competed for the Men's Swimming Team as an <a href="https://jondentonschneider.com/personal">openly gay NCAA Division I student-athlete</a> and worked to increase LGBTQ inclusion in college athletics.
 </p>
