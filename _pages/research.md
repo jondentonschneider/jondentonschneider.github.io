@@ -46,4 +46,3 @@ Blood Taxes: The Development Effects of Military Conscription in Colonial French
   <li><div align="justify"><i>Data collection in progress at the </i>Archives Nationales du Sénégal<i>, Dakar, Senegal</i></div></li>
 </ul>
 </p>
-</p>
