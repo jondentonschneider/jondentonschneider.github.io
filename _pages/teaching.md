@@ -36,6 +36,7 @@ Drawing on my experience as a Spanish instructor, I teach economics as a new lan
   <p align="justify"><i>Developed writing skills of 100 students in 2 Upper-Level Writing Requirement classes</i>
   </p>
   </blockquote>
+  </details>
   </p>
 
 <h3>University of Arizona</h3>
@@ -47,4 +48,5 @@ Drawing on my experience as a Spanish instructor, I teach economics as a new lan
   <p align="justify"><i>Instructor of record for 125 students in 5 classes meeting 4 times per week</i>
   </p>
   </blockquote>
+  </details>
   </p>
