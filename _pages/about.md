@@ -19,7 +19,7 @@ I am on the job market in 2021-22 and will be available for interviews. My CV is
 </p>
 
 <p align="justify">
-In my <a href="https://jondentonschneider.com/files/denton-schneider_institutions_hiv.pdf">job market paper</a>, I show how colonial institutions shaped the HIV epidemic in Mozambique through their lasting impacts on marriage and dating markets. In <a href="https://jondentonschneider.com/research">my other dissertation chapters</a>, I examine the effects of infectious disease eradication in childhood on: dating behaviors and HIV prevalence in Zimbabwe; and adult income, labor productivity, fertility, and public finances in Brazil.
+In my <a href="https://jondentonschneider.com/files/denton-schneider_institutions_hiv.pdf">job market paper</a>, I show how colonial institutions shaped the HIV epidemic in Mozambique through their lasting impacts on marriage and dating markets. In <a href="https://jondentonschneider.com/research">my other dissertation chapters</a>, I examine the effects of infectious disease eradication in childhood on young women's HIV prevalence in Zimbabwe and on adult income, labor productivity, fertility, and public finances in Brazil.
 </p>
 
 <p align="justify">
