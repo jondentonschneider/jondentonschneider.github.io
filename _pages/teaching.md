@@ -33,22 +33,18 @@ Drawing on my experience as a Spanish instructor, I teach economics as a new lan
 <p align="justify">
 <details><summary>Economics 490: Ethics of Economic Behavior (<i>GSI for Prof. Ben Zamzow, Fall 2017-Spring 2018</i>)</summary>
   <blockquote>
-  <p align="justify"><i>Graded and provided feedback on essays for 2 Upper-Level Writing Requirement courses of 50 students</i>
+  <p align="justify"><i>Developed writing skills of 100 students in 2 Upper-Level Writing Requirement classes</i>
   </p>
+  </blockquote>
   </p>
 
 <h3>University of Arizona</h3>
 
-<p align="justify">
-  Spanish 202: Fourth-Semester Spanish (<i>Instructor of record, Spring 2014</i>)
-<ul>
-<li><div align="justify">Taught 1 course of 25 students</div></li>
-</ul>
-</p>
 
 <p align="justify">
-  Spanish 101: First-Semester Spanish (<i>Instructor of record, Fall 2013-Spring 2015</i>)
-<ul>
-<li><div align="justify">Taught 4 courses of 25 students</div></li>
-</ul>
-</p>
+<details><summary>Spanish 101: First-Semester Spanish (<i>Instructor of record, Fall 2013-Spring 2015</i>)</summary>
+  <blockquote>
+  <p align="justify"><i>Instructor of record for 125 students in 5 classes meeting 4 times per week</i>
+  </p>
+  </blockquote>
+  </p>
