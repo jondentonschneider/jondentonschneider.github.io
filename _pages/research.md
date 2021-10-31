@@ -15,6 +15,7 @@ I study the fundamental causes of human capital disparities in developing econom
 
 <p align="justify">
 <details><summary><a href="https://jondentonschneider.com/files/denton-schneider_institutions_hiv.pdf">Colonial Institutions, Marriage Markets, and HIV: Evidence from Mozambique</a> (<i>job market paper</i>)</summary>
+  <br>
   <blockquote>
   <p align="justify"><i>This paper links Africa’s history to its HIV epidemic through colonial institutions’ lasting effects on marriage markets. I exploit the arbitrary border within Mozambique between two regimes common across the continent: one that pushed over 50,000 young men annually into temporary labor migration (1897-1975) and another that heavily restricted their mobility (1891-1942). Historians contend the migrant-sending institution fundamentally altered marriage markets in that region. Using colonial census data, I show that young men there still married earlier and were closer in age to their wives two decades after the end of the mobility-restricting institution, even though migration rates had converged. Because smaller age disparities reduce HIV risk, I examine seroprevalence today and find it is nearly 50 percent (10 p.p.) lower in the former migrant-sending region. The data suggest that age disparities and associated behaviors are the main channel for this effect.</i>
   </p>
@@ -24,6 +25,7 @@ I study the fundamental causes of human capital disparities in developing econom
 
 <p align="justify">
 <details><summary>Childhood Human Capital, Dating Markets, and HIV: Evidence from Schistosomiasis Control in Zimbabwe</summary>
+  <br>
   <blockquote>
   <p align="justify"><i>I examine how improving childhood health in Sub-Saharan Africa reduces young women’s risk of acquiring HIV by changing whom they date. I exploit Zimbabwe’s efforts to control schistosomiasis, which in Southern Africa causes genital ulcers that increase susceptibility to HIV infection, in addition to malaise and fevers that limit children’s ability to learn and attend school. Because education is a major component of attractiveness in dating markets, schistosomiasis may lead young women to match with men with lower levels of schooling and a higher likelihood of having HIV. Using variation in the prevalence of heavy schistosome infection among schoolchildren across districts prior to the campaign, I show that HIV prevalence among young women decreased more where schistosomiasis was more of a burden. The evidence is consistent with the schooling and dating market channel: areas that used to have higher schistosomiasis morbidity saw a greater increase in girls’ school attendance, and they date men closer to them in age and with more education.</i>
   </p>
@@ -49,8 +51,10 @@ The Promises and Pitfalls of Using DHS Data for Comparisons across Countries and
 
 <p align="justify">
 <details><summary>Blood Taxes: The Development Effects of Military Conscription in Colonial French West Africa (<i>with <a href="https://sites.google.com/view/jamesalleniv/home">James Allen IV</a></i>)</summary>
-  <p>
-  <blockquote align="justify"><i>Data collection in progress at the </i>Archives Nationales du Sénégal<i>, Dakar, Senegal</i></blockquote>
+  <br>
+  <blockquote>
+  <p align="justify"><i>Data collection in progress at the </i>Archives Nationales du Sénégal<i>, Dakar, Senegal</i>
   </p>
+  </blockquote>
   </details>
   </p>
