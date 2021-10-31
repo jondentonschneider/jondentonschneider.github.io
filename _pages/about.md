@@ -15,7 +15,7 @@ I am a PhD candidate in the <a href="https://lsa.umich.edu/econ">Department of E
 </p>
 
 <p align="justify">
-I am on the job market in 2021-22 and will be available for interviews. My CV is <a href="https://jondentonschneider.com/files/Denton-Schneider_CV.pdf">here</a>.
+I am on the job market in 2021-22 and will be available for interviews. My CV is <a href="https://jondentonschneider.com/files/denton-schneider_cv.pdf">here</a>.
 </p>
 
 <p align="justify">
