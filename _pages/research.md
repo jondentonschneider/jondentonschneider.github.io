@@ -8,7 +8,7 @@ author_profile: true
 ---
 
 <p align="justify">
-I study the historical causes of disparities in human capital&mdash;especially health&mdash;in developing economies and the policies that can remedy them.
+I study the fundamental causes of human capital disparities in developing economies as well as the policies that can remedy them.
 </p>
 
 <h3>Dissertation Chapters</h3>
