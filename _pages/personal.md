@@ -11,7 +11,7 @@ author_profile: true
 
 <p align="justify">
 <details><summary>
-I <a href="https://arizonawildcats.com/sports/mens-swimming-and-diving/roster/jon-denton-schneider/4190">swam for the University of Arizona</a> and wrote about my experience as an out gay student-athlete in an essay for <a href="https://www.outsports.com/2015/7/14/8938045/jon-denton-schneider-arizona-swimming-gay-coming-out"><i>Outsports.</i></a></summary>
+I wrote about my experience as an out gay NCAA Division I <a href="https://arizonawildcats.com/sports/mens-swimming-and-diving/roster/jon-denton-schneider/4190">swimmer at the University of Arizona</a> in an essay for <a href="https://www.outsports.com/2015/7/14/8938045/jon-denton-schneider-arizona-swimming-gay-coming-out"><i>Outsports.</i></a></summary>
  <blockquote>
    <p align="justify"><i>Media coverage</i>: <a href="https://www.kold.com/story/30006001/i-was-a-bald-gay-wildcat-former-ua-swimmer-explains-coming-out-essay/">KOLD News 13</a>, <a href="https://phoenix.outvoices.us/coming-out-to-the-team/">OUTvoices Phoenix</a>
   </p>
