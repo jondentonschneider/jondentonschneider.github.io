@@ -14,12 +14,9 @@ I study the fundamental causes of human capital disparities in developing econom
 <h3>Dissertation Chapters</h3>
 
 <p align="justify">
-<a href="https://jondentonschneider.com/files/denton-schneider_institutions_hiv.pdf">Colonial Institutions, Marriage Markets, and HIV: Evidence from Mozambique</a> (<i>job market paper</i>)
+<a href="https://jondentonschneider.com/files/denton-schneider_institutions_hiv.pdf">Colonial Institutions, Marriage Markets, and HIV: Evidence from Mozambique</a> (<i>job market paper</i>) <details><summary>Abstract</summary>
   <ul>
-  <li><details><summary>Abstract</summary>
-      
-   <p align="justify"><i>This paper links Africa’s history to its HIV epidemic through colonial institutions’ lasting effects on marriage markets. I exploit the arbitrary border within Mozambique between two regimes common across the continent: one that pushed over 50,000 young men annually into temporary labor migration (1897-1975) and another that heavily restricted their mobility (1891-1942). Historians contend the migrant-sending institution fundamentally altered marriage markets in that region. Using colonial census data, I show that young men there still married earlier and were closer in age to their wives two decades after the end of the mobility-restricting institution, even though migration rates had converged. Because smaller age disparities reduce HIV risk, I examine seroprevalence today and find it is nearly 50 percent (10 p.p.) lower in the former migrant-sending region. The data suggest that age disparities and associated behaviors are the main channel for this effect.</i></p>
-  </details></li>
+  <li><div align="justify"><i>This paper links Africa’s history to its HIV epidemic through colonial institutions’ lasting effects on marriage markets. I exploit the arbitrary border within Mozambique between two regimes common across the continent: one that pushed over 50,000 young men annually into temporary labor migration (1897-1975) and another that heavily restricted their mobility (1891-1942). Historians contend the migrant-sending institution fundamentally altered marriage markets in that region. Using colonial census data, I show that young men there still married earlier and were closer in age to their wives two decades after the end of the mobility-restricting institution, even though migration rates had converged. Because smaller age disparities reduce HIV risk, I examine seroprevalence today and find it is nearly 50 percent (10 p.p.) lower in the former migrant-sending region. The data suggest that age disparities and associated behaviors are the main channel for this effect.</i></di></details></li>
   </ul>
 </p>
 
