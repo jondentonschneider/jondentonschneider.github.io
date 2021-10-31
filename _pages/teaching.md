@@ -18,7 +18,7 @@ Drawing on my experience as a Spanish instructor, I teach economics as a new lan
   <blockquote>
   <p align="justify"><i>Taught 50 students in 2 weekly discussion sections</i>
   </p>
-  <p align="justify"><i>TJon is the best</i>
+  <p align="justify"><i>"[Jon] was the best GSI I have had. He is very knowledgeable and is great at making everyone feel comfortable in the classroom. He is the only reason I showed up for discussions."</i>
   </p>
   </blockquote>
   </details>
