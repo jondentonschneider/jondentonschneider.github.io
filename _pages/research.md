@@ -8,7 +8,7 @@ author_profile: true
 ---
 
 <p align="justify">
-I study the causes and consequences of disparities in human capital within developing economies and the policies that can remedy them. I focus on the historical and social contexts of these inequalities so that development policymakers can properly tailor programs to communities they serve.
+I study the causes and consequences of disparities in human capital within developing economies and the policies that can remedy them. I focus on the historical and social contexts of these inequalities so that development policymakers can properly tailor programs to the communities they serve.
 </p>
 
 <h3>Dissertation Chapters</h3>
