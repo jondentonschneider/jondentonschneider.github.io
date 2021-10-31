@@ -15,7 +15,6 @@
   }
 
   a {
-     text-align: justify;
      text-decoration: underline;
 
     &:hover {
@@ -29,7 +28,6 @@
 }
 
 .archive__subtitle {
-  text-align: justify;
   margin: 1.414em 0 0;
   padding-bottom: 0.5em;
   font-size: $type-size-5;
@@ -42,7 +40,6 @@
 }
 
 .archive__item-title {
-  text-align: justify;
   margin-bottom: 0.25em;
   font-family: $sans-serif-narrow;
 
@@ -53,24 +50,19 @@
 
 /* remove border*/
 .page__content {
-   
-  text-align: justify;
 
   .archive__item-title {
     margin-top: 1em;
     border-bottom: none;
-    text-align: justify;
   }
 }
 
 .archive__item-excerpt {
   margin-top: 0;
   font-size: $type-size-6;
-  text-align: justify;
 
   & + p {
     text-indent: 0;
-    text-align: justify;
   }
 }
 
