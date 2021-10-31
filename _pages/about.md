@@ -15,17 +15,17 @@ I am a PhD candidate in the <a href="https://lsa.umich.edu/econ">Department of E
 </p>
 
 <p align="justify">
-My <a href="https://jondentonschneider.com/research">job market paper</a> shows how colonial institutions shaped the HIV epidemic in Mozambique through their lasting impacts on marriage and dating markets. In <a href="https://jondentonschneider.com/research">my other projects</a>, I examine the effects of infectious disease eradication during childhood on adult income, health, labor productivity, marriage, and public expenditures.
+I am on the job market in 2021-22 and will be available for interviews. My CV is <a href="https://jondentonschneider.com/files/Denton-Schneider_CV.pdf">here</a>.
+</p>
+
+<p align="justify">
+In my <a href="https://jondentonschneider.com/files/denton-schneider_hiv_institutions.pdf">job market paper</a>, I show how colonial institutions shaped the HIV epidemic in Mozambique through their lasting impacts on marriage and dating markets. In <a href="https://jondentonschneider.com/research">my other projects</a>, I examine the effects of infectious disease eradication during childhood on HIV status in Zimbabwe and adult income, labor productivity, marriage, and public finances in Brazil.
   </p>
 
 <p align="justify">
-I hold an MA in <a href="https://las.arizona.edu/">Latin American Studies</a> from the University of Arizona and taught introductory Spanish courses while earning my degree, an experience that informs <a href="https://jondentonschneider.com/teaching">how I teach economics</a>. I was also an undergraduate at Arizona, where I competed for the Men's Swimming Team as an <a href="https://jondentonschneider.com/personal">openly gay NCAA Division I student-athlete</a> and worked to increase inclusion in college athletics.
+I hold an MA in <a href="https://las.arizona.edu/">Latin American Studies</a> from the University of Arizona and taught introductory Spanish courses while earning my degree, an experience that informs <a href="https://jondentonschneider.com/teaching">how I teach economics</a>.
 </p>
     
 <p align="justify">
-  My CV is <a href="https://jondentonschneider.com/files/Denton-Schneider_CV.pdf">here</a>.
-</p>
-
-<p align="justify">
-I am on the job market in 2021-22 and will be available for interviews.
+I was also an undergraduate at Arizona, where I competed for the Men's Swimming Team as an <a href="https://jondentonschneider.com/personal">openly gay NCAA Division I student-athlete</a> and worked to increase inclusion in college athletics.
 </p>
