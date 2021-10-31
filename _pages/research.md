@@ -8,10 +8,10 @@ author_profile: true
 ---
 
 <p align="justify">
-I study how history can affect human capital accumulation and other important inputs into long-run economic development. I focus primarily on infectious diseases in Sub-Saharan Africa and Latin America.
+I study the historical causes of disparities in human capital&mdash;especially health&mdash;in developing economies and the policies that can remedy them.
 </p>
 
-<h3>Working Papers</h3>
+<h3>Dissertation Chapters</h3>
 
 <p align="justify">
 <a href="https://jondentonschneider.com/files/denton-schneider_institutions_hiv.pdf">Colonial Institutions, Marriage Markets, and HIV: Evidence from Mozambique</a> (<i>job market paper</i>)
@@ -21,25 +21,17 @@ I study how history can affect human capital accumulation and other important in
 </p>
 
 <p align="justify">
+Neglected Tropical Diseases Can Worsen HIV Epidemics: Evidence from Schistosomiasis Control in Southern Africa
+</p>
+
+<p align="justify">
 Health, Income, and Public Spending in a Developing Economy: Evidence from Brazil's Eradication of Chagas Disease (<i>with <a href="https://www.eduardo-montero.com/">Eduardo Montero</a></i>)
 </p>
   
 <h3>Work in Progress</h3>
 
 <p align="justify">
-Neglected Tropical Diseases Can Worsen HIV Epidemics: Evidence from Schistosomiasis Control in Southern Africa
-  </p>
-  
-<p align="justify">
-Pre-Colonial Medical Practices and the Success of Vaccination Campaigns: Evidence from the Smallpox Eradication Program (<i>with <a href="https://www.eduardo-montero.com/">Eduardo Montero</a></i>)
-</p>
-
-<p align="justify">
 Blood Taxes: The Development Effects of Colonial Conscription in French West Africa (<i>with <a href="https://sites.google.com/view/jamesalleniv/home">James Allen IV</a></i>)
-</p>
-
-<p align="justify">
-Neglected Tropical Diseases and Agricultural Development: Evidence from Nigeria's Eradication of Guinea Worm
 </p>
 
 <p align="justify">
