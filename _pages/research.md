@@ -21,14 +21,14 @@ I study the fundamental causes of human capital disparities in developing econom
 </p>
 
 <p align="justify">
-<h4>Childhood Human Capital, Dating Markets, and HIV: Evidence from Schistosomiasis Control in Zimbabwe</h4>
+<b>Childhood Human Capital, Dating Markets, and HIV: Evidence from Schistosomiasis Control in Zimbabwe</b>
   <ul>
   <li><div align="justify"><i>Abstract</i>: I examine how improving childhood health in Sub-Saharan Africa reduces young women’s risk of acquiring HIV by changing whom they date. I exploit Zimbabwe’s efforts to control schistosomiasis, which in Southern Africa causes genital ulcers that increase susceptibility to HIV infection, in addition to malaise and fevers that limit children’s ability to learn and attend school. Because education is a major component of attractiveness in dating markets, schistosomiasis may lead young women to match with men with lower levels of schooling and a higher likelihood of having HIV. Using variation in the prevalence of heavy schistosome infection among schoolchildren across districts prior to the campaign, I show that HIV prevalence among young women decreased more where schistosomiasis was more of a burden. The evidence is consistent with the schooling and dating market channel: areas that used to have higher schistosomiasis morbidity saw a greater increase in girls’ school attendance, and they date men closer to them in age and with more education.</div></li>
 </ul>
 </p>
 
 <p align="justify">
-<h4>Health, Income, and Public Finances in a Developing Economy: Evidence from Chagas Disease Eradication in Brazil (<i>with <a href="https://www.eduardo-montero.com/">Eduardo Montero</a></i>)</h4>
+<b>Health, Income, and Public Finances in a Developing Economy: Evidence from Chagas Disease Eradication in Brazil (<i>with <a href="https://www.eduardo-montero.com/">Eduardo Montero</a></i>)</b>
   <ul>
   <li><div align="justify"><i>Abstract</i>: This paper studies the channels through which improving childhood health in a developing economy increases income in adulthood, and whether it can improve a country’s fiscal health as well. We exploit Brazil’s eradication of Chagas Disease, which has two phases: one to three months of acute illness (generally in childhood) and chronic cardiovascular problems 10 to 30 years later in a large share of those infected. We make comparisons before and after eradication across municipalities where the disease’s main vector was present and those where it was not. We show that disparities in children’s literacy and schooling decreased substantially after eradication. For adults exposed to the campaigns as children, we find increased employment and income as well as reduced reliance on anti-poverty programs as well as fertility rates. We also examine two previously-unexplored channels through which disease impacts developing economies: labor productivity&mdash;immediately after eradication (for adults with acute Chagas Disease) and in the long run (for adults with chronic symptoms)&mdash;and expenditures by Brazil’s universal public health insurance and federal pension systems.</div></li>
 </ul>
@@ -37,11 +37,11 @@ I study the fundamental causes of human capital disparities in developing econom
 <h3>Work in Progress</h3>
 
 <p align="justify">
-<h4>The Promises and Pitfalls of Using DHS Data for Comparisons across Countries and National Borders</h4>
+<b>The Promises and Pitfalls of Using DHS Data for Comparisons across Countries and National Borders</b>
 </p>
 
 <p align="justify">
-<h4>Blood Taxes: The Development Effects of Military Conscription in Colonial French West Africa (<i>with <a href="https://sites.google.com/view/jamesalleniv/home">James Allen IV</a></i>)</h4>
+<b>Blood Taxes: The Development Effects of Military Conscription in Colonial French West Africa (<i>with <a href="https://sites.google.com/view/jamesalleniv/home">James Allen IV</a></i>)</b>
   <ul>
   <li><div align="justify"><i>Data collection in progress at the </i>Archives Nationales du Sénégal<i>, Dakar, Senegal</i></div></li>
 </ul>
