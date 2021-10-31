@@ -22,9 +22,10 @@ I <a href="https://arizonawildcats.com/sports/mens-swimming-and-diving/roster/jo
 <h3>Promoting Inclusion in Sports</h3>
 
 <p align="justify">
-<details><summary>I used my platform to promote inclusion in college sports by organizing seminars within the Athletics Department and leading an initiative that resulted in over 150 student-athletes and staff publicly committing to being allies for every Arizona Wildcat.</i></a></summary>
+<details><summary>I used my platform to promote inclusion in college sports by organizing seminars within the Athletics Department and leading an initiative that resulted in over 150 student-athletes and staff publicly committing to being allies for every Arizona Wildcat.</summary>
  <blockquote>
-   <p align="justify"><i>Media coverage: <a href="https://www.swimmingworldmagazine.com/news/lgbtqia-rights-in-the-swimming-community/">Swimming World Magazine</a>, <a href="https://www.outsports.com/2015/11/24/9789116/arizona-wildcats-gay-lgbt-banner">Outsports</a>  </p>
+ <p align="justify"><i>Media coverage: <a href="https://www.swimmingworldmagazine.com/news/lgbtqia-rights-in-the-swimming-community/">Swimming World Magazine</a>, <a href="https://www.outsports.com/2015/11/24/9789116/arizona-wildcats-gay-lgbt-banner">Outsports</a>
+  </p>
   </blockquote>
   </details>
   </p>
