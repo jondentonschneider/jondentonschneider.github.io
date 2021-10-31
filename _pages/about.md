@@ -11,7 +11,7 @@ redirect_from:
 ---
 
 <p align="justify">
-I am a PhD candidate in the <a href="https://lsa.umich.edu/econ">Department of Economics</a> and a predoctoral trainee in economic demography in the <a href="https://www.psc.isr.umich.edu/">Population Studies Center</a> at the University of Michigan. My research is in development economics and economic history with a focus on human capital--especially health--in Sub-Saharan Africa and Latin America.
+I am a PhD candidate in the <a href="https://lsa.umich.edu/econ">Department of Economics</a> and a predoctoral trainee in economic demography in the <a href="https://www.psc.isr.umich.edu/">Population Studies Center</a> at the University of Michigan. My research is in development economics and economic history with a focus on human capital&mdash;especially health&mdash;in Sub-Saharan Africa and Latin America.
 </p>
 
 <p align="justify">
