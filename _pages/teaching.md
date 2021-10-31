@@ -23,7 +23,6 @@ Drawing on my experience as a Spanish instructor, I teach economics as a new lan
   <p align="justify"><i>"He genuinely cared about his students and consistently went out of his way to make sure everyone understood the course material (i.e. giving detailed explanations on discussion and practice exam questions)."</i>
   <p align="justify"><i>"[Jon] was the best GSI I have had. He is very knowledgeable and is great at making everyone feel comfortable in the classroom. He is the only reason I showed up for discussions."</i>
   </p>
-  </p>
   <p align="justify"><i>"One of the most welcoming instructors I have ever had. Amazing."</i>
   </p>
   </blockquote>
