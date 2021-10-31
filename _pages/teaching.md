@@ -31,7 +31,7 @@ Drawing on my experience as a Spanish instructor, I teach economics as a new lan
   </p>
 
 <p align="justify">
-<details><summary>Economics 490: Ethics of Economic Behavior (<i>GSI for Prof. Ben Zamzow, Fall 2017-Spring 2018</i>)</summary>
+<details><summary>Economics 490: Ethics of Economic Behavior (<i>GSI for Prof. Ben Zamzow, Fall 2017-Winter 2018</i>)</summary>
   <blockquote>
   <p align="justify"><i>Developed writing skills of 100 students in 2 Upper-Level Writing Requirement classes</i>
   </p>
