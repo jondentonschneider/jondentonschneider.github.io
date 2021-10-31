@@ -2,13 +2,13 @@
 layout: archive
 title: "Research"
 seo_title: "Research in Development Economics and Economic History - Jon Denton-Schneider"
-excerpt: "My job market paper shows how colonial institutions shaped the HIV epidemic in Mozambique through their lasting impacts on marriage and dating markets."
+excerpt: "I study the causes of disparities in human capital in developing economies as well as the policies that can remedy them."
 permalink: /research/
 author_profile: true
 ---
 
 <p align="justify">
-I study the fundamental causes of human capital disparities in developing economies as well as the policies that can remedy them.
+I study the causes and consequences of disparities in human capital within developing economies and the policies that can remedy them. I focus on the historical and social contexts of these inequalities so that development policymakers can design programs with the greatest chance of success.
 </p>
 
 <h3>Dissertation Chapters</h3>
