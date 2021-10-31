@@ -8,17 +8,19 @@ author_profile: true
 ---
 
 <p align="justify">
-Drawing on my experience as a Spanish instructor, I teach economics as a new language that students can master by practicing it in the classroom, identifying and engaging with it in the real world, and communicating as simply as possible while they build up their vocabularies. Teaching evaluations are available upon request.
+Drawing on my experience as a Spanish instructor, I teach economics as a new language that students can master by identifying and engaging with it in the real world, practicing it with classmates through games and experiments, and communicating their ideas as simply as possible while building up their vocabularies.
 </p>
   
 <h3>University of Michigan</h3>
 
 <p align="justify">
-Economics 101: Principles of Microeconomics (<i>GSI for Prof. Justin Wolfers, Fall 2018</i>)
-<ul>
-  <li><div align="justify">Taught 2 discussion sections of 25 students</div></li>
-</ul>
-</p>
+<details><summary>Economics 101: Principles of Microeconomics (<i>GSI for Prof. Justin Wolfers, Fall 2018</i>)</summary>
+  <blockquote>
+  <p align="justify"><i>Taught 50 students in 2 weekly discussion sections</i>
+  </p>
+  </blockquote>
+  </details>
+  </p>
 
 <p align="justify">
 Economics 490: Ethics of Economic Behavior (<i>GSI for Prof. Ben Zamzow, Fall 2017-Spring 2018</i>)
