@@ -37,7 +37,7 @@ I study the fundamental causes of human capital disparities in developing econom
 <details><summary>Health, Income, and Public Finances in a Developing Economy: Evidence from Chagas Disease Eradication in Brazil (<i>with <a href="https://www.eduardo-montero.com/">Eduardo Montero</a></i>)</summary>
   <p>
   <ul>
-  <li><div align="justify"><i>Abstract</i>: This paper studies the channels through which improving childhood health in a developing economy increases income in adulthood, and whether it can improve a country’s fiscal health as well. We exploit Brazil’s eradication of Chagas Disease, which has two phases: one to three months of acute illness (generally in childhood) and chronic cardiovascular problems 10 to 30 years later in a large share of those infected. We make comparisons before and after eradication across municipalities where the disease’s main vector was present and those where it was not. We show that disparities in children’s literacy and schooling decreased substantially after eradication. For adults exposed to the campaigns as children, we find increased employment and income as well as reduced reliance on anti-poverty programs as well as fertility rates. We also examine two previously-unexplored channels through which disease impacts developing economies: labor productivity&mdash;immediately after eradication (for adults with acute Chagas Disease) and in the long run (for adults with chronic symptoms)&mdash;and expenditures by Brazil’s universal public health insurance and federal pension systems.</div></details></li>
+  <li><div align="justify"><i>Abstract</i>: This paper studies the channels through which improving childhood health in a developing economy increases income in adulthood, and whether it can improve a country’s fiscal health as well. We exploit Brazil’s eradication of Chagas Disease, which has two phases: one to three months of acute illness (generally in childhood) and chronic cardiovascular problems 10 to 30 years later in a large share of those infected. We make comparisons before and after eradication across municipalities where the disease’s main vector was present and those where it was not. We show that disparities in children’s literacy and schooling decreased substantially after eradication. For adults exposed to the campaigns as children, we find increased employment and income as well as reduced reliance on anti-poverty programs as well as fertility rates. We also examine two previously-unexplored channels through which disease impacts developing economies: labor productivity&mdash;immediately after eradication (for adults with acute Chagas Disease) and in the long run (for adults with chronic symptoms)&mdash;and expenditures by Brazil’s universal public health insurance and federal pension systems.</div></li>
   </ul>
   </p>
   </details>
@@ -53,7 +53,7 @@ The Promises and Pitfalls of Using DHS Data for Comparisons across Countries and
 <details><summary>Blood Taxes: The Development Effects of Military Conscription in Colonial French West Africa (<i>with <a href="https://sites.google.com/view/jamesalleniv/home">James Allen IV</a></i>)</summary>
   <p>
   <ul>
-  <li><div align="justify">Data collection in progress at the <i>Archives Nationales du Sénégal</i>, Dakar, Senegal</div></details></li>
+  <li><div align="justify">Data collection in progress at the <i>Archives Nationales du Sénégal</i>, Dakar, Senegal</div></li>
   </ul>
   </p>
   </details>
