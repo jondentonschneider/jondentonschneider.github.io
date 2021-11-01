@@ -29,8 +29,3 @@ I was an <a href="https://www.outsports.com/2015/7/14/8938045/jon-denton-schneid
   </blockquote>
   </details>
   </p>
-  
-  <h3>Washtenaw County Medical Reserve Corps</h3>
-  
-  <p align="justify">During the COVID-19 pandemic, I have volunteered over 50 hours assisting at county-run vaccination clinics, especially with Spanish-speaking patients, as a member of the <a href="https://www.washtenaw.org/1824/MRC-Member-Requirements">Washtenaw County Medical Reserve Corps</a>.
-  </p>
