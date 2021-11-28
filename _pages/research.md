@@ -2,7 +2,7 @@
 layout: archive
 title: "Research"
 seo_title: "Research in Development Economics and Economic History - Jon Denton-Schneider"
-excerpt: "I study the causes of disparities in human capital in developing economies as well as the policies that can remedy them."
+excerpt: "I study the causes and consequences of disparities in human capital in developing economies and the policies that can remedy them."
 permalink: /research/
 author_profile: true
 ---
