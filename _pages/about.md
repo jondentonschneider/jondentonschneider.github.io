@@ -11,7 +11,7 @@ redirect_from:
 ---
 
 <p>
-I am a PhD candidate in the <a href="https://lsa.umich.edu/econ">Department of Economics</a> and a predoctoral trainee in economic demography in the <a href="https://www.psc.isr.umich.edu/">Population Studies Center</a> at the University of Michigan. I am on the job market in 2021-22 and will be available for interviews. My CV is <a href="https://jondentonschneider.com/files/denton-schneider_cv.pdf">here</a>.
+I am a PhD candidate in the <a href="https://lsa.umich.edu/econ">Department of Economics</a> and a predoctoral trainee in economic demography in the <a href="https://www.psc.isr.umich.edu/">Population Studies Center</a> at the University of Michigan. I will be joining <a href="https://www.clarku.edu/departments/economics/">Clark University</a> as an assistant professor in Fall 2022. My CV is <a href="https://jondentonschneider.com/files/denton-schneider_cv.pdf">here</a>.
 </p>
 
 <p>
