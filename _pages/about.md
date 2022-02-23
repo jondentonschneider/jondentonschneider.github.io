@@ -15,7 +15,7 @@ I am a PhD candidate in the <a href="https://lsa.umich.edu/econ">Department of E
 </p>
 
 <p>
-My research is in development economics and economic history with a focus on human capital&mdash;especially health&mdash;in Sub-Saharan Africa and Latin America. In my <a href="https://jondentonschneider.com/files/denton-schneider_institutions_hiv.pdf">job market paper</a>, I show how colonial institutions shaped the HIV epidemic in Mozambique through their lasting impacts on marriage and dating markets. In <a href="https://jondentonschneider.com/research">my other dissertation chapters</a>, I examine the effects of infectious disease eradication in childhood on young women's HIV prevalence in Zimbabwe and on adult income, labor productivity, and public finances in Brazil.
+My research is in development economics and economic history with a focus on human capital&mdash;especially health&mdash;in Sub-Saharan Africa and Latin America. In my <a href="https://jondentonschneider.com/files/denton-schneider_institutions_hiv.pdf">job market paper</a>, I show how colonial institutions shaped the HIV epidemic in Mozambique through their lasting impacts on marriage and dating markets. In <a href="https://jondentonschneider.com/research">my other work</a>, I examine the effects of infectious disease eradication in childhood on young women's HIV prevalence in Zimbabwe and on adult income, labor productivity, and public finances in Brazil.
 </p>
 
 <p>
