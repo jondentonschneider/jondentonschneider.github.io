@@ -11,7 +11,7 @@ author_profile: true
 I study the causes and consequences of disparities in human capital within developing economies and the policies that can remedy them. I focus on the historical and social contexts of these inequalities so that development policymakers can properly tailor programs to the communities they serve.
 </p>
 
-<h3>Dissertation Chapters</h3>
+<h3>Working Papers</h3>
 
 <p>
 <details><summary><a href="https://jondentonschneider.com/files/denton-schneider_institutions_hiv.pdf">Colonial Institutions, Marriage Markets, and HIV: Evidence from Mozambique</a> (<i>job market paper</i>)</summary>
@@ -21,6 +21,10 @@ I study the causes and consequences of disparities in human capital within devel
   </blockquote>
   </details>
   </p>
+
+
+  
+<h3>Work in Progress</h3>
 
 <p>
 <details><summary>Human Capital, Dating Markets, and HIV: Evidence from Schistosomiasis Control in Zimbabwe</summary>
@@ -39,8 +43,6 @@ I study the causes and consequences of disparities in human capital within devel
   </blockquote>
   </details>
   </p>
-  
-<h3>Work in Progress</h3>
 
 <p>
 The Promises and Pitfalls of Using DHS Data for Comparisons across Countries and National Borders
