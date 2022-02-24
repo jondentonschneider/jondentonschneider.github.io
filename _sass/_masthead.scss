@@ -3,6 +3,7 @@
    ========================================================================== */
 
 .masthead {
+  background-color: $lighter-gray;
   position: relative;
   border-bottom: 1px solid $border-color;
   -webkit-animation: intro 0.3s both;
@@ -42,6 +43,8 @@
 }
 
 .masthead__menu-item {
+   
+  background-color: $lighter-gray;
   
   display: block;
   list-style-type: none;
