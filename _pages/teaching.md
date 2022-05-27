@@ -10,6 +10,12 @@ author_profile: true
 <p>
 Drawing on my experience as a Spanish instructor, I teach economics as a new language that students can master by identifying and engaging with it in the real world, practicing it with classmates through games and experiments, and communicating their ideas orally and in writing as simply as possible while they build up their vocabularies.
 </p>
+
+<h3>Clark University</h3>
+
+<p>
+ECON 128: Intro to Economic Development (<i>Undergrad, Fall 2022-</i>)
+  </p>
   
 <h3>University of Michigan</h3>
 
