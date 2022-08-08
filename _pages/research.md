@@ -27,7 +27,7 @@ I study the causes and consequences of disparities in human capital within devel
 <h3>Work in Progress</h3>
 
 <p>
-<details><summary>Childhood Health, Marriage Markets, and Young Women's HIV: Evidence from Zimbabwe</summary>
+<details><summary>Childhood Health, Marriage Markets, and Young Women's HIV: Evidence from Deworming in Zimbabwe</summary>
   <blockquote>
   <p><i>Young women comprise a disproportionate share of new HIV infections in Sub-Saharan Africa, largely due to features of the region’s marriage markets like age-disparate partnerships. Because marriage prospects are shaped by human capital, the stock of which is influenced by childhood health, can improving the health of older girls thus lower their chances of contracting HIV as young women? I examine a nationwide school-based deworming program in Zimbabwe (2012-17) that substantially reduced rates of urogenital schistosomiasis, a parasitic worm disease that can limit learning and school attendance. Comparing across high- and low-morbidity districts, I find that 3 years after the program began, HIV prevalence among women 18 to 20 had fallen 4.3 percentage points (p.p., 47 percent) more in high-schistosomiasis districts. The effects of human capital on marriage-market matching appear to explain the results: these young women were 7.1 p.p. (51 percent) more likely to still be attending school, the average age gap with their partners fell by 2 years (30 percent), and HIV risk factors associated with age-disparate relationships decreased as well. These results show that a cheap treatment for a common disease in Sub-Saharan Africa can also help combat one of the modern world’s deadliest pandemics.</i>
   </p>
@@ -36,7 +36,7 @@ I study the causes and consequences of disparities in human capital within devel
   </p>
   
 <p>
-<details><summary>Health, Income, and Public Finances in a Developing Economy: Evidence from Chagas Disease Eradication in Brazil (<i>with <a href="https://www.eduardo-montero.com/">Eduardo Montero</a></i>)</summary>
+<details><summary>Disease, Disparities, and Development: Evidence from Chagas Disease in Brazil (<i>with <a href="https://www.eduardo-montero.com/">Eduardo Montero</a></i>)</summary>
   <blockquote>
   <p><i>This paper studies the channels through which improving childhood health in a developing economy increases income in adulthood, and whether it can improve a country’s fiscal health as well. We exploit Brazil’s eradication of Chagas Disease, which has two phases: one to three months of acute illness (generally in childhood) and chronic cardiovascular problems 10 to 30 years later in a large share of those infected. We make comparisons before and after eradication across municipalities where the disease’s main vector was present and those where it was not. We show that disparities in children’s literacy and schooling decreased substantially after eradication. For adults exposed to the campaigns as children, we find that each additional year of exposure increased employment and income, and decreased reliance on anti-poverty programs and fertility rates. We also examine two previously-unexplored channels through which disease impacts developing economies: labor productivity&mdash;immediately after eradication (for adults with acute Chagas Disease) and in the long run (for adults with chronic symptoms)&mdash;and expenditures by Brazil’s universal public health insurance and federal pension systems.</i>
   </p>
