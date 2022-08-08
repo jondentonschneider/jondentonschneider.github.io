@@ -2,8 +2,8 @@
 layout: archive
 permalink: /
 title: "About Me"
-seo_title: "Jon Denton-Schneider - Economics PhD Candidate at the University of Michigan"
-excerpt: "I am a Economics PhD candidate at the University of Michigan studying development and history with a focus on human capital."
+seo_title: "Jon Denton-Schneider - Assistant Professor of Economics at Clark University"
+excerpt: "I am an Assistant Professor of Economics at Clark University studying development and history with a focus on human capital."
 author_profile: true
 redirect_from: 
   - /about/
