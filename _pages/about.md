@@ -11,11 +11,11 @@ redirect_from:
 ---
 
 <p>
-I am a PhD candidate in the <a href="https://lsa.umich.edu/econ">Department of Economics</a> and a predoctoral trainee in economic demography in the <a href="https://www.psc.isr.umich.edu/">Population Studies Center</a> at the University of Michigan. I will be joining <a href="https://www.clarku.edu/departments/economics/">Clark University</a> as an assistant professor in Fall 2022. My CV is <a href="https://jondentonschneider.com/files/denton-schneider_cv.pdf">here</a>.
+I am an Assistant Professor of Economics at <a href="https://www.clarku.edu/departments/economics/">Clark University</a>. I earned my PhD from the <a href="https://lsa.umich.edu/econ">University of Michigan</a>, where I was a predoctoral trainee in economic demography in the <a href="https://www.psc.isr.umich.edu/">Population Studies Center</a>. My CV is <a href="https://jondentonschneider.com/files/denton-schneider_cv.pdf">here</a>.
 </p>
 
 <p>
-My research is in development economics and economic history with a focus on human capital&mdash;especially health&mdash;in Sub-Saharan Africa and Latin America. In a <a href="https://jondentonschneider.com/files/denton-schneider_institutions_hiv.pdf">working paper</a>, I show how colonial institutions shaped the HIV epidemic in Mozambique through their lasting impacts on marriage and dating markets. In <a href="https://jondentonschneider.com/research">my other work</a>, I study the effects of infectious disease control in childhood on young women's HIV prevalence in Zimbabwe and on adult income, labor productivity, and public finances in Brazil.
+My research is in development economics and economic history with a focus on human capital&mdash;especially health&mdash;in Sub-Saharan Africa and Latin America. In a <a href="https://jondentonschneider.com/files/denton-schneider_institutions_hiv.pdf">working paper</a>, I show how colonial institutions shaped the HIV epidemic in Mozambique through their lasting impacts on marriage markets. In <a href="https://jondentonschneider.com/research">my other work</a>, I study the effects of infectious disease control in childhood on young women's HIV prevalence in Zimbabwe and on adult income, labor productivity, and public finances in Brazil.
 </p>
 
 <p>
