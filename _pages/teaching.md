@@ -20,7 +20,7 @@ ECON 128: Intro to Economic Development (<i>Undergrad, Fall 2022-</i>)
 <h3>University of Michigan</h3>
 
 <p>
-<details,open="false">ECON 101: Principles of Microeconomics (<i>GSI for Prof. Justin Wolfers, Fall 2018</i>)
+  ECON 101: Principles of Microeconomics (<i>GSI for Prof. Justin Wolfers, Fall 2018</i>)
   <blockquote>
   <p><a href="https://jondentonschneider.com/files/denton-schneider_teaching_evaluations_econ101.pdf"><i>Evaluations</i></a>
   </p>
@@ -31,7 +31,6 @@ ECON 128: Intro to Economic Development (<i>Undergrad, Fall 2022-</i>)
   <p><i>"One of the most welcoming instructors I have ever had. Amazing."</i>
   </p>
   </blockquote>
-  </details>
   </p>
 
 <p>
