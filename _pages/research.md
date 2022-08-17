@@ -14,13 +14,11 @@ I study the causes and consequences of disparities in human capital within devel
 <h3>Working Papers</h3>
 
 <p>
-<details, open="false">
 <a href="https://jondentonschneider.com/files/denton-schneider_institutions_hiv.pdf">Colonial Institutions, Marriage Markets, and HIV: Evidence from Mozambique</a>
   <blockquote>
   <p><i>During the colonial period, several types of extractive institutions organized much of economic activity in Sub-Saharan Africa. Historians argued that two of them&mdash;one pushing men into circular migration and one restricting their mobility&mdash;had different effects on marriage markets with bride price but not on development. Specifically, young men in a migrant-sending institution could make bridewealth payments, narrowing the spousal age gaps that would later increase HIV risk. But much of their wages was captured by elders through inflated bride prices instead of being saved, limiting circular migration’s development potential. To compare these extractive regimes, I exploit the arbitrary border within Mozambique that separated the two institutions for a half-century (1893-1942). In the colonial era, spousal age gaps were smaller in the migrant-sending region, even after the border was erased and circular migration rates converged. Today, HIV prevalence is substantially lower in this area, likely due to narrower age gaps between partners, but development outcomes are similar. These results show how different forms of colonial extraction affect health and wealth in Africa, and that marriage markets are a channel through which historical events shape the present.</i>
   </p>
   </blockquote>
-  </details>
   </p>
 
 
