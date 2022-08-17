@@ -10,7 +10,7 @@ author_profile: true
 <h3>Out Gay Student-Athlete</h3>
 
 <p align="justify">
-<details><summary>
+<details,open="false"><summary>
 I was an <a href="https://www.outsports.com/2015/7/14/8938045/jon-denton-schneider-arizona-swimming-gay-coming-out">out gay NCAA Division I swimmer</a> on the top-ranked team at the University of Arizona.</summary>
  <blockquote>
    <p><i>Media coverage</i>: <a href="https://www.kold.com/story/30006001/i-was-a-bald-gay-wildcat-former-ua-swimmer-explains-coming-out-essay/">KOLD News 13</a>, <a href="https://phoenix.outvoices.us/coming-out-to-the-team/">OUTvoices Phoenix</a>
@@ -25,7 +25,7 @@ I was an <a href="https://www.outsports.com/2015/7/14/8938045/jon-denton-schneid
 <h3>Promoting Inclusion in Sports</h3>
 
 <p>
-<details><summary>I used my platform to promote inclusion in college sports by organizing seminars within the Athletics Department and leading an initiative that resulted in over 150 student-athletes and staff publicly committing to being allies for every Arizona Wildcat.</summary>
+<details,open="false"><summary>I used my platform to promote inclusion in college sports by organizing seminars within the Athletics Department and leading an initiative that resulted in over 150 student-athletes and staff publicly committing to being allies for every Arizona Wildcat.</summary>
  <blockquote>
   <p><i>Media coverage</i>: <a href="https://www.swimmingworldmagazine.com/news/lgbtqia-rights-in-the-swimming-community/">Swimming World Magazine</a>, <a href="https://www.outsports.com/2015/11/24/9789116/arizona-wildcats-gay-lgbt-banner">Outsports</a>
   </p>
