@@ -20,16 +20,16 @@ I study the causes and consequences of disparities in human capital within devel
   </blockquote>
   </p>
 
-
-  
-<h3>Work in Progress</h3>
-
 <p>
-  Childhood Health, Marriage Markets, and Young Women's HIV: Evidence from Deworming in Zimbabwe
+<a href="https://jondentonschneider.com/files/denton-schneider_schistosomiasis_hiv.pdf">Childhood Health, Marriage Markets, and Young Women's HIV: Evidence from Deworming in Zimbabwe</a>
   <blockquote>
   <i>Nearly one in three new HIV infections in Sub-Saharan Africa occurs in women ages 15 to 24, largely because common behaviors in marriage markets put them at high risk. Because marital prospects are shaped by human capital, the stock of which is influenced by childhood health, can improving the health of older girls lower their chances of contracting HIV as young women? I examine a nationwide school-based deworming program in Zimbabwe (2012-17) that substantially reduced rates of urogenital schistosomiasis. Using a difference-in-differences design, I find that 3 years after deworming began, HIV prevalence among young women in cohorts exposed to treatment had fallen 2.7 percentage points (p.p., 44 percent) more in formerly high-schistosomiasis districts than in low-morbidity ones. Human capital's effects on marriage market matching appear to explain the results: female secondary school attendance rates rose by 6.0 p.p. (9 percent), and young women were in less age-disparate relationships and had fewer sexual partners. These results show that a cheap treatment for a common childhood disease can also be a highly cost-effective way of combatting one of the world's deadliest pandemics.</i>
   </blockquote>
   </p>
+  
+
+
+<h3>Work in Progress</h3>
   
 <p>
  Disease, Disparities, and Development: Evidence from Chagas Disease in Brazil (<i>with <a href="https://www.eduardo-montero.com/">Eduardo Montero</a></i>)
