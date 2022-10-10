@@ -15,7 +15,7 @@ I am an Assistant Professor of Economics at <a href="https://www.clarku.edu/depa
 </p>
 
 <p>
-My research is in development economics and economic history with a focus on human capital&mdash;especially health&mdash;in Sub-Saharan Africa and Latin America. In a <a href="https://jondentonschneider.com/files/denton-schneider_institutions_hiv.pdf">working paper</a>, I show how colonial labor policies shaped the HIV epidemic in Mozambique through their lasting impacts on marriage markets. In <a href="https://jondentonschneider.com/research">my other work</a>, I study the effects of infectious disease control in childhood on young women's HIV prevalence in Zimbabwe and on labor markets, racial disparities, and public finances in Brazil.
+My research is in development economics and economic history with a focus on human capital&mdash;especially health&mdash;in Sub-Saharan Africa and Latin America. In my work, I show how <a href="https://jondentonschneider.com/files/denton-schneider_institutions_hiv.pdf">labor policies in colonial Mozambique shaped the country's HIV epidemic</a> through their lasting impacts on marriage markets. Another of my papers shows that <a href="https://jondentonschneider.com/files/denton-schneider_deworming_hiv.pdf">deworming girls in Zimbabwe reduced their HIV prevalence as young women</a>, as their improved human capital changed their marriage market outcomes. In a joint project, my co-author and I show that eliminating Chagas Disease transmission in Brazil improved labor market outcomes for adults and those treated as children, reduced racial disparities, and improved public finances in Brazil.
 </p>
 
 <p>
