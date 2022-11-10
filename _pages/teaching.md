@@ -14,6 +14,10 @@ Drawing on my experience as a Spanish instructor, I teach economics as a new lan
 <h3>Clark University</h3>
 
 <p>
+ECON 329: Microeconomics of Development (<i>PhD, Spring 2023-</i>)
+  </p>
+
+<p>
 ECON 128: Intro to Economic Development (<i>Undergrad, Fall 2022-</i>)
   </p>
   
@@ -39,6 +43,9 @@ ECON 490: Ethics of Economic Behavior (<i>GSI for Prof. Ben Zamzow, Fall 2017-Wi
 
 <h3>University of Arizona</h3>
 
+<p>
+SPAN 202: Fourth-Semester Spanish (<i>Instructor of record, Spring 2014</i>)
+  </p>
 
 <p>
 SPAN 101: First-Semester Spanish (<i>Instructor of record, Fall 2013-Spring 2015</i>)
