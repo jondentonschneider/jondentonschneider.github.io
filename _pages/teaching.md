@@ -20,7 +20,7 @@ ECON 329: Microeconomics of Development (<i>PhD, Spring 2023-</i>)
 <p>
 ECON 128: Intro to Economic Development (<i>Undergrad, Fall 2022-</i>)
   <blockquote>
-  <p><a href="https://jondentonschneider.com/files/denton-schneider_evaluations_clark_econ128_f22.pdf"><i>Evaluations (Fall 2022)</i></a>
+  <p><a href="https://jondentonschneider.com/files/denton-schneider_evaluations_clarku_econ128_f22.pdf"><i>Evaluations (Fall 2022)</i></a>
   </p>
   <p><img src="https://jondentonschneider.com/files/denton-schneider_evaluations_clarku_econ128_f22_effectiveness.png" alt="Instructor Effectiveness 4.92/5">
   </p>
