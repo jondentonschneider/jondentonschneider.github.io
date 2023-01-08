@@ -19,6 +19,12 @@ ECON 329: Microeconomics of Development (<i>PhD, Spring 2023-</i>)
 
 <p>
 ECON 128: Intro to Economic Development (<i>Undergrad, Fall 2022-</i>)
+  <blockquote>
+  <p><a href="https://jondentonschneider.com/files/denton-schneider_evaluations_clark_econ128_f22.pdf"><i>Evaluations</i></a>
+  </p>
+  <p><img src="denton-schneider_evaluations_clarku_econ128_f22_effectiveness.png" alt="Trulli" width="500" height="333">
+  </p>
+  </blockquote>
   </p>
   
 <h3>University of Michigan</h3>
@@ -26,7 +32,7 @@ ECON 128: Intro to Economic Development (<i>Undergrad, Fall 2022-</i>)
 <p>
   ECON 101: Principles of Microeconomics (<i>GSI for Prof. Justin Wolfers, Fall 2018</i>)
   <blockquote>
-  <p><a href="https://jondentonschneider.com/files/denton-schneider_teaching_evaluations_econ101.pdf"><i>Evaluations</i></a>
+  <p><a href="https://jondentonschneider.com/files/denton-schneider_evaluations_umich_econ101_f18.pdf"><i>Evaluations</i></a>
   </p>
   <p><i>"[Jon] was the best GSI I have had. He is very knowledgeable and is great at making everyone feel comfortable in the classroom. He is the only reason I showed up for discussions."</i>
   </p>
