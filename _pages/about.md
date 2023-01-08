@@ -19,7 +19,7 @@ My research is in development economics and economic history with a focus on hum
 </p>
 
 <p>
-I hold an MA in <a href="https://las.arizona.edu/">Latin American Studies</a> from the University of Arizona and taught Spanish while earning my degree, an experience that informs <a href="https://jondentonschneider.com/teaching">how I teach economics</a>.
+I hold an MA in <a href="https://las.arizona.edu/">Latin American Studies</a> from the University of Arizona and taught Spanish while earning my degree, an experience that informs <a href="https://jondentonschneider.com/teaching">how I teach economics</a>. My students have described me as "one of the best professors [they] have had in the major" and said of the undergraduate development economics class I designed, "[they] have enjoyed this course the most out of [their] entire Economic[s] course load."
 </p>
     
 <p>
