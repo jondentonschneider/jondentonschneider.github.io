@@ -24,6 +24,10 @@ ECON 128: Intro to Economic Development (<i>Undergrad, Fall 2022-</i>)
   </p>
   <p><img src="https://jondentonschneider.com/files/denton-schneider_evaluations_clarku_econ128_f22_effectiveness.png" alt="Instructor Effectiveness 4.92/5">
   </p>
+  <p><img src="https://jondentonschneider.com/files/denton-schneider_evaluations_clarku_econ128_f22_comments1.png" alt="Student Comments 1">
+  </p>
+  <p><img src="https://jondentonschneider.com/files/denton-schneider_evaluations_clarku_econ128_f22_comments2.png" alt="Student Comments 2">
+  </p>
   </blockquote>
   </p>
   
