@@ -19,7 +19,7 @@ My <a href="https://jondentonschneider.com/research">research</a> is in developm
 </p>
 
 <p>
-I hold an MA in <a href="https://las.arizona.edu/">Latin American Studies</a> from the University of Arizona and taught Spanish while earning my degree, an experience that informs <a href="https://jondentonschneider.com/teaching">how I teach economics</a>. In course evaluations, a Clark student described me as <a href="https://jondentonschneider.com/files/denton-schneider_evaluations_clarku_econ128_f22.pdf">as "one of the best professors I have had in the major."</a> 
+I hold an MA in <a href="https://las.arizona.edu/">Latin American Studies</a> from the University of Arizona and taught Spanish while earning my degree, an experience that informs <a href="https://jondentonschneider.com/teaching">how I teach economics</a>. In course evaluations, a Clark student described me as <a href="https://jondentonschneider.com/files/denton-schneider_evaluations_clarku_econ128_f22.pdf">"one of the best professors I have had in the major."</a> 
 </p>
     
 <p>
