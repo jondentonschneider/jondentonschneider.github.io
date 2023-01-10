@@ -11,7 +11,7 @@ redirect_from:
 ---
 
 <p>
-I am an Assistant Professor of Economics at <a href="https://www.clarku.edu/departments/economics/">Clark University</a>. I earned my PhD in 2022 from the University of Michigan, where I was a predoctoral trainee in economic demography in the Population Studies Center. My CV is <a href="https://jondentonschneider.com/files/denton-schneider_cv.pdf">here</a>.
+I am an Assistant Professor of Economics at <a href="https://www.clarku.edu/departments/economics/">Clark University</a>. I earned my PhD in 2022 from the University of Michigan, where I was a predoctoral trainee in economic demography in the Population Studies Center.
 </p>
 
 <p>
@@ -19,7 +19,7 @@ My <a href="https://jondentonschneider.com/research">research</a> is in developm
 </p>
 
 <p>
-I hold an MA in Latin American Studies from the University of Arizona and taught Spanish while earning my degree, an experience that informs <a href="https://jondentonschneider.com/teaching">how I teach economics</a>. In course evaluations, a Clark student described me as "one of the best professors [they] have had in the major."</a> 
+I hold an MA in Latin American Studies from the University of Arizona and taught Spanish while earning my degree, an experience that informs <a href="https://jondentonschneider.com/teaching">how I teach economics</a>. In course evaluations, a Clark student described me as "one of the best professors [they] have had in the major."
 </p>
     
 <p>
