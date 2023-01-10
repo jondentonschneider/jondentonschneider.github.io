@@ -15,7 +15,7 @@ I am an Assistant Professor of Economics at <a href="https://www.clarku.edu/depa
 </p>
 
 <p>
-My <a href="https://jondentonschneider.com/research">research</a> is in development economics and economic history with a focus on human capital&mdash;especially health&mdash;in Sub-Saharan Africa and Latin America. In my work, I have studied the social and historical roots of spatial disparities in Mozambique's HIV epidemic and shown that controlling disease has important impacts in domains beyond children's education and their long-run labor market outcomes.
+My <a href="https://jondentonschneider.com/research">research</a> is in development economics and economic history with a focus on human capital&mdash;especially health&mdash;in Sub-Saharan Africa and Latin America. In my work, I have shown how in Mozambique's colonial history shapes its HIV epidemic and that controlling disease has important impacts in domains beyond children's education and their long-run labor market outcomes.
 </p>
 
 <p>
