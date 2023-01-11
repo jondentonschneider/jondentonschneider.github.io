@@ -19,7 +19,7 @@ My <a href="https://jondentonschneider.com/research">research</a> is in developm
 </p>
 
 <p>
-I hold an MA in Latin American Studies from the University of Arizona and taught Spanish while earning my degree, an experience that informs <a href="https://jondentonschneider.com/teaching">how I teach economics</a>. In course evaluations, I received an instructor effectiveness rating of 4.92/5 (0.55 standard deviations above the university mean of 4.44/5), and a student described me as "one of the best professors [they] have had in the major."
+I hold an MA in Latin American Studies from the University of Arizona and taught Spanish while earning my degree, an experience that informs <a href="https://jondentonschneider.com/teaching">how I teach economics</a>. In course evaluations, I received an instructor effectiveness rating of 4.92/5 (0.55 SD above the university mean of 4.44), and a student described me as "one of the best professors [they] have had in the major."
 </p>
     
 <p>
