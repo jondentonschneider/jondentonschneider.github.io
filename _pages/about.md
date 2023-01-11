@@ -19,9 +19,9 @@ My <a href="https://jondentonschneider.com/research">research</a> is in developm
 </p>
 
 <p>
-I hold an MA in Latin American Studies from the University of Arizona and taught Spanish while earning my degree, an experience that informs <a href="https://jondentonschneider.com/teaching">how I teach economics</a>. In course evaluations, a Clark student described me as "one of the best professors [they] have had in the major."
+I hold an MA in Latin American Studies from the University of Arizona and taught Spanish while earning my degree, an experience that informs <a href="https://jondentonschneider.com/teaching">how I teach economics</a>. In course evaluations, I received an instructor effectiveness rating of 4.92/5 (0.55 standard deviations above the university mean of 4.44/5), and one student described me as "one of the best professors [they] have had in the major."
 </p>
     
 <p>
-I was also an undergraduate at Arizona, where I competed for the Men's Swimming Team as an <a href="https://jondentonschneider.com/personal">openly gay NCAA Division I student-athlete</a> and worked to increase LGBTQ inclusion in college athletics.
+I was also an undergraduate at Arizona, where I competed for the Men's Swimming Team as an <a href="https://jondentonschneider.com/personal">openly gay NCAA Division I student-athlete</a> and worked to increase LGBTQ inclusion in college athletics. I am also a mentor in the <a href="https://sites.google.com/view/csqiep-mentoring">CSQIEP LGBTQ+ Mentorship Program</a>.
 </p>
