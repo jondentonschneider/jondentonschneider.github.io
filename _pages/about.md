@@ -15,11 +15,11 @@ I am an Assistant Professor of Economics at <a href="https://www.clarku.edu/depa
 </p>
 
 <p>
-My <a href="https://jondentonschneider.com/research">research</a> is in development economics and economic history with a focus on human capital&mdash;especially health&mdash;in Sub-Saharan Africa and Latin America. In my work, I have shown how Mozambique's colonial history shapes its HIV epidemic and that controlling disease has important impacts in domains beyond children's education and their long-run labor market outcomes.
+My <a href="https://jondentonschneider.com/research">research</a> is in development economics and economic history with a focus on human capital&mdash;especially health&mdash;in Sub-Saharan Africa and Latin America. In my work, I show how Mozambique's colonial history shapes its HIV epidemic and that controlling disease in developing countries has important economic impacts beyond increasing children's schooling.
 </p>
 
 <p>
-I hold an MA in Latin American Studies from the University of Arizona and taught Spanish while earning my degree, an experience that informs <a href="https://jondentonschneider.com/teaching">how I teach economics</a>. In course evaluations, I received an instructor effectiveness rating of 4.92/5 (0.55 SD above the university mean of 4.44), and a student described me as "one of the best professors [they] have had in the major."
+I hold an MA in Latin American Studies from the University of Arizona and taught Spanish while earning my degree, an experience that informs <a href="https://jondentonschneider.com/teaching">how I teach economics</a>. In course evaluations at Clark, I received an instructor effectiveness rating of 4.92/5 (0.55 SD above the university mean of 4.44), and a student described me as "one of the best professors [they] have had in the major."
 </p>
     
 <p>
