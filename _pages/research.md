@@ -37,14 +37,18 @@ I study the causes and consequences of disparities in human capital within devel
   <i>Vector-borne transmission of Chagas Disease &ndash; a neglected tropical disease (NTD) causing weeks of acute symptoms and often chronic cardiovascular problems at least 10 years later &ndash; occurs almost entirely among poor, rural, and non-white populations in Latin America. How does eliminating it affect health and wealth disparities in the world's most unequal region? Using Brazil's initial vector control campaign (1984-89) and a difference-in-differences strategy, we find that where the bugs were more prevalent, adult employment rates rose more after insecticide spraying began, cohorts treated as children had higher adult incomes, and these effects were larger for non-white Brazilians. In a triple-differences framework, we show that the expected decline in chronic Chagas Disease coincided with substantial reductions in cardiovascular hospital care paid for by Brazil's publicly funded healthcare system. These results suggest that combating NTDs can speed convergence in societies with large racial disparities and improve the fiscal health of developing economies.</i>
   </blockquote>
   </p>
-
+  
 <p>
-The Promises and Pitfalls of Using DHS Data for Comparisons across Countries and National Borders
-</p>
-
+  Rags to Rags: The Intergenerational Effects of the 1834 Poor Law (<i>with <a href="https://www.jennifer-mayo.com/">Jennifer Mayo</a></i>)
+  </p>
+  
 <p>
   Blood Taxes: The Development Effects of Military Conscription in Colonial French West Africa (<i>with <a href="https://sites.google.com/view/jamesalleniv/home">James Allen IV</a></i>)
   <blockquote>
   <i>Data collection in progress at the </i>Archives Nationales du Sénégal<i>, Dakar, Senegal</i>
   </blockquote>
   </p>
+
+<p>
+The Promises and Pitfalls of Using DHS Data for Comparisons across Countries and National Borders
+</p>
