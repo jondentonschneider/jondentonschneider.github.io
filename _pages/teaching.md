@@ -2,7 +2,7 @@
 layout: archive
 title: "Teaching"
 seo_title: "Teaching Economics as a Language - Jon Denton-Schneider"
-excerpt: "Drawing on my experience as a Spanish instructor, I teach economics as a new language for students to master."
+excerpt: "Highly-rated graduate and undergraduate instructor."
 permalink: /teaching/
 author_profile: true
 ---
