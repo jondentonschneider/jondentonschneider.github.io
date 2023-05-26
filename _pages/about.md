@@ -24,6 +24,8 @@ My <a href="https://jondentonschneider.com/research">research</a> is in developm
 </ul> 
 </p>
 
+<h4>Teaching</h4>
+
 <p>
 I <a href="https://jondentonschneider.com/teaching">teach</a> development economics at the graduate and undergraduate levels as well as principles courses. In teaching evaluations:
  <ul>
