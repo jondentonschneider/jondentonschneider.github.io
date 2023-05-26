@@ -2,7 +2,7 @@
 layout: archive
 title: "Research"
 seo_title: "Research - Jon Denton-Schneider"
-excerpt: "Research in development economics, economic history, and health economics."
+excerpt: "Research in development economics, economic history, and health economics"
 permalink: /research/
 author_profile: true
 ---
