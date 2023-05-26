@@ -23,13 +23,13 @@ My <a href="https://jondentonschneider.com/research">research</a> is in developm
 </p>
 
 <p>
-I <a href="https://jondentonschneider.com/teaching">teach</a> development economics at the graduate and undergraduate levels as well as principles courses. In course evaluations:
+I <a href="https://jondentonschneider.com/teaching">teach</a> development economics at the graduate and undergraduate levels as well as principles courses. In teaching evaluations:
  <ul>
-  <li>Undergraduates rated my instructor effectiveness as 4.92/5 (0.55 SD above the university mean of 4.44), and a student described me as "one of the best professors [they] have had in the major."</li>
-  <li>Graduate students rated my course's contributions to their capacity to think critically and formulate questions as 5/5 (0.72 SD above the university mean of 4.37) and my success in setting and maintaining high standards for their work as 5/5 (0.63 SD above the university mean of 4.48).</li>
+  <li>Undergraduates rated my instructor effectiveness as 4.92/5 (0.55 SD above the Clark mean for undergrad classes), and a student described me as "one of the best professors [they] have had in the major."</li>
+  <li>Graduate students rated my course's contributions to their capacity to think critically and formulate questions as 5/5 (0.63 SD above the Clark mean for grad classes) and my success in setting and maintaining high standards for their work as 5/5 (0.55 SD above the Clark mean for grad classes).</li>
 </ul>
 </p>
     
 <p>
-I completed my undergraduate and Master's studies at the University of Arizona, where I competed for the Men's Swimming Team as an <a href="https://jondentonschneider.com/personal">openly gay NCAA Division I student-athlete</a>. I currently work to increase LGBTQ inclusion in economics by serving as a mentor in the <a href="https://sites.google.com/view/csqiep-mentoring">CSQIEP LGBTQ+ Mentorship Program</a>.
+As an <a href="https://jondentonschneider.com/personal">openly gay</a> economist, I work to increase inclusion in the profession as a mentor in the <a href="https://sites.google.com/view/csqiep-mentoring">CSQIEP LGBTQ+ Mentorship Program</a>. I did the same in college sports as an out NCAA Division I student-athlete on the University of Arizona Men's Swimming Team.
 </p>
