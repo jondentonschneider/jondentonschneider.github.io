@@ -17,7 +17,7 @@ I am an Assistant Professor of Economics at <a href="https://www.clarku.edu/depa
 <p>
 My <a href="https://jondentonschneider.com/research">research</a> is in development economics and economic history with a focus on human capital&mdash;especially health&mdash;in Sub-Saharan Africa and Latin America. In my work, I show that:
  <ul>
-  <li>Mozambique's colonial history shapes its HIV epidemic.</li>
+  <li>Colonial labor policies in Africa shape the HIV epidemic there today.</li>
   <li>Controlling disease in developing countries has important economic impacts beyond increasing children's schooling.</li>
 </ul> 
 </p>
