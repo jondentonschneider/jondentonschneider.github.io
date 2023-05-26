@@ -14,6 +14,8 @@ redirect_from:
 I am an Assistant Professor of Economics at <a href="https://www.clarku.edu/departments/economics/">Clark University</a>. I earned my PhD in 2022 from the University of Michigan.
 </p>
 
+<h3>Research</h3>
+
 <p>
 My <a href="https://jondentonschneider.com/research">research</a> is in development economics and economic history with a focus on human capital&mdash;especially health&mdash;in Sub-Saharan Africa and Latin America. In my work, I show that:
  <ul>
