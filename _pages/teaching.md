@@ -10,6 +10,10 @@ author_profile: true
 <h3>Clark University</h3>
 
 <p>
+ECON 10: Economics and the World Economy (<i>Undergrad, Fall 2023-</i>)
+  </p>
+
+<p>
 ECON 329: Microeconomics of Development (<i>PhD, Spring 2023-</i>)
   <blockquote>
   <p><a href="https://jondentonschneider.com/files/denton-schneider_evaluations_clarku_econ329_s23.pdf"><i>Evaluations (Spring 2023)</i></a>
