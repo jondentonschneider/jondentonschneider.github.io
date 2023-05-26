@@ -31,5 +31,5 @@ I <a href="https://jondentonschneider.com/teaching">teach</a> development econom
 </p>
     
 <p>
-I completed my undergraduate and Master's studies at the University of Arizona, where I competed for the Men's Swimming Team. As an <a href="https://jondentonschneider.com/personal">openly gay NCAA Division I student-athlete</a>, I worked to increase LGBTQ inclusion in college sports. I do the same in economics by serving as a mentor in the <a href="https://sites.google.com/view/csqiep-mentoring">CSQIEP LGBTQ+ Mentorship Program</a>.
+I completed my undergraduate and Master's studies at the University of Arizona, where I competed for the Men's Swimming Team as an <a href="https://jondentonschneider.com/personal">openly gay NCAA Division I student-athlete</a>. I currently work to increase LGBTQ inclusion in economics by serving as a mentor in the <a href="https://sites.google.com/view/csqiep-mentoring">CSQIEP LGBTQ+ Mentorship Program</a>.
 </p>
