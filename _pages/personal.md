@@ -2,7 +2,7 @@
 layout: archive
 title: "Personal"
 seo_title: "Personal - Jon Denton-Schneider"
-excerpt: "I was an out gay student-athlete on the University of Arizona Men's Swimming Team and worked to promote inclusion in college sports."
+excerpt: "Out gay economist and former student-athlete"
 permalink: /personal/
 author_profile: true
 ---
