@@ -15,6 +15,14 @@ Drawing on my experience as a Spanish instructor, I teach economics as a new lan
 
 <p>
 ECON 329: Microeconomics of Development (<i>PhD, Spring 2023-</i>)
+  <blockquote>
+  <p><a href="https://jondentonschneider.com/files/denton-schneider_evaluations_clarku_econ329_s23.pdf"><i>Evaluations (Spring 2023)</i></a>
+  </p>
+  <p><img src="https://jondentonschneider.com/files/denton-schneider_evaluations_clarku_econ329_s23_criticalthinking.png" alt="Increasing capacity to think critically and formulate questions 5/5">
+  </p>
+  <p><img src="https://jondentonschneider.com/files/denton-schneider_evaluations_clarku_econ329_s23_highstandards.png" alt="Setting and maintaining high standards for student work 5/5">
+  </p>
+  </blockquote>
   </p>
 
 <p>
@@ -22,7 +30,7 @@ ECON 128: Intro to Economic Development (<i>Undergrad, Fall 2022-</i>)
   <blockquote>
   <p><a href="https://jondentonschneider.com/files/denton-schneider_evaluations_clarku_econ128_f22.pdf"><i>Evaluations (Fall 2022)</i></a>
   </p>
-  <p><img src="https://jondentonschneider.com/files/denton-schneider_evaluations_clarku_econ128_f22_effectiveness.png" alt="Instructor Effectiveness 4.92/5">
+  <p><img src="https://jondentonschneider.com/files/denton-schneider_evaluations_clarku_econ128_f22_effectiveness.png" alt="Instructor effectiveness 4.92/5">
   </p>
   <p><img src="https://jondentonschneider.com/files/denton-schneider_evaluations_clarku_econ128_f22_comments1.png" alt="One of the best professors I have had">
   </p>
