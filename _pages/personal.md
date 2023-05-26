@@ -7,6 +7,12 @@ permalink: /personal/
 author_profile: true
 ---
 
+<h3>LGBTQ+ Inclusion in Economics</h3>
+
+<p>
+I serve as a mentor in the <a href="https://sites.google.com/view/csqiep-mentoring">CSQIEP LGBTQ+ Mentorship Program</a>.
+  </p>
+
 <h3>Out Gay Student-Athlete</h3>
 
 <p>
