@@ -24,7 +24,7 @@ My <a href="https://jondentonschneider.com/research">research</a> is in developm
 </ul> 
 </p>
 
-<h4>Teaching</h4>
+<h3>Teaching</h3>
 
 <p>
 I <a href="https://jondentonschneider.com/teaching">teach</a> development economics at the graduate and undergraduate levels as well as principles courses. In teaching evaluations:
@@ -33,6 +33,8 @@ I <a href="https://jondentonschneider.com/teaching">teach</a> development econom
    <li>Undergraduates rated my instructor effectiveness as 4.92/5 (0.55 SD above the university mean for undergrad classes), and a student described me as "one of the best professors [they] have had in the major."</li>
 </ul>
 </p>
+
+<h3>LGBTQ+ Inclusion</h3>
     
 <p>
 As an <a href="https://jondentonschneider.com/personal">openly gay</a> economist, I work to increase inclusion in the profession as a mentor in the <a href="https://sites.google.com/view/csqiep-mentoring">CSQIEP LGBTQ+ Mentorship Program</a>. I did the same in college sports as an out NCAA Division I student-athlete on the University of Arizona Men's Swimming Team.
