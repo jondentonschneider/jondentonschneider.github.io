@@ -3,7 +3,7 @@ layout: archive
 permalink: /
 title: "About Me"
 seo_title: "Jon Denton-Schneider - Assistant Professor of Economics at Clark University"
-excerpt: "I am an Assistant Professor of Economics at Clark University studying development and history with a focus on human capital."
+excerpt: "Assistant Professor of Economics at Clark University"
 author_profile: true
 redirect_from: 
   - /about/
