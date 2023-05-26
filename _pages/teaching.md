@@ -1,7 +1,7 @@
 ---
 layout: archive
 title: "Teaching"
-seo_title: "Teaching Economics as a Language - Jon Denton-Schneider"
+seo_title: "Teaching - Jon Denton-Schneider"
 excerpt: "Highly-rated graduate and undergraduate instructor."
 permalink: /teaching/
 author_profile: true
