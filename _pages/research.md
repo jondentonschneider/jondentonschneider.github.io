@@ -2,14 +2,10 @@
 layout: archive
 title: "Research"
 seo_title: "Research - Jon Denton-Schneider"
-excerpt: "I study the causes and consequences of disparities in human capital in developing economies and the policies that can remedy them."
+excerpt: "Research in development economics, economic history, and health economics."
 permalink: /research/
 author_profile: true
 ---
-
-<p>
-I study the causes and consequences of disparities in human capital within developing economies and the policies that can remedy them. I focus on the historical and social contexts of these inequalities so that development policymakers can properly tailor programs to the communities they serve.
-</p>
 
 <h3>Working Papers</h3>
 
