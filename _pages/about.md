@@ -26,7 +26,7 @@ My <a href="https://jondentonschneider.com/research">research</a> is in developm
 I <a href="https://jondentonschneider.com/teaching">teach</a> development economics at the graduate and undergraduate levels as well as principles courses. In teaching evaluations:
  <ul>
    <li>Undergraduates rated my instructor effectiveness as 4.92/5 (0.55 SD above the Clark mean for undergrad classes).</li>
-   <li>A student described me as <b>"one of the best professors [they] have had in the major."</li>
+   <li>A student described me as "one of the best professors [they] have had in the major."</li>
   <li>Graduate students rated my course's contributions to increasing their capacity to think critically and formulate questions as 5/5</b> (0.63 SD above the Clark mean for grad classes).</li>
 </ul>
 </p>
