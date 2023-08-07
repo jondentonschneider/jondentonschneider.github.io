@@ -39,7 +39,7 @@ author_profile: true
   </p>
 
 <p>
-  Health as Structural Transformation: Evidence from Guinea Worm Disease Eradication in Ghana (<i>with <a href="https://sites.google.com/site/cocarn07">Conor Carney</a></i>
+  Health as Structural Transformation: Evidence from Guinea Worm Disease Eradication in Ghana (<i>with <a href="https://sites.google.com/site/cocarn07">Conor Carney</a></i>)
 </p>
   
 <p>
