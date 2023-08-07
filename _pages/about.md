@@ -11,16 +11,16 @@ redirect_from:
 ---
 
 <p>
-I am an Assistant Professor of Economics at <a href="https://www.clarku.edu/departments/economics/">Clark University</a>. I earned my PhD in 2022 from the University of Michigan.
+I am an Assistant Professor of Economics at <a href="https://www.clarku.edu/departments/economics/">Clark University</a>. I earned my PhD from the University of Michigan in 2022.
 </p>
 
 <h3>Research</h3>
 
 <p>
-My <a href="https://jondentonschneider.com/research">research</a> is in development economics and economic history with a focus on human capital &ndash; especially health &ndash; in Sub-Saharan Africa and Latin America. In my work, I show that:
+My <a href="https://jondentonschneider.com/research">research</a> is in development economics and economic history with a focus on human capital &ndash; especially health &ndash; in modern and historical developing economies. In my work, I show that:
  <ul>
-  <li>The legacies of colonial labor policies in Africa shape the HIV epidemic there today.</li>
-  <li>Controlling disease in developing countries has important economic impacts beyond increasing children's schooling.</li>
+  <li>The legacies of colonial labor policies in Africa shape the HIV epidemic there today through long-run impacts on marriage markets.</li>
+  <li>Controlling neglected tropical diseases has important but previously unexplored effects, such as reducing racial inequality in Brazil and young women's HIV rates in Zimbabwe.</li>
 </ul> 
 </p>
 
