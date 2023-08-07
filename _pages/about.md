@@ -19,7 +19,7 @@ I am an Assistant Professor of Economics at <a href="https://www.clarku.edu/depa
 <p>
 My <a href="https://jondentonschneider.com/research">research</a> is in development economics and economic history with a focus on human capital &ndash; especially health &ndash; in modern and historical developing economies. In my work, I show that:
  <ul>
-  <li>The legacies of colonial labor policies in Africa shape the HIV epidemic there today through long-run impacts on marriage markets.</li>
+  <li>Colonial labor policies in Africa have shaped its HIV epidemic through their long-run impacts on marriage markets.</li>
   <li>Controlling neglected tropical diseases has important but previously unexplored effects, such as reducing racial inequality in Brazil and young women's HIV rates in Zimbabwe.</li>
 </ul> 
 </p>
