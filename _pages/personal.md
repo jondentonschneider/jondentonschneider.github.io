@@ -20,9 +20,6 @@ I was an <a href="https://www.outsports.com/2015/7/14/8938045/jon-denton-schneid
  <blockquote>
   <p><i>Media coverage</i>: <a href="https://www.kold.com/story/30006001/i-was-a-bald-gay-wildcat-former-ua-swimmer-explains-coming-out-essay/">KOLD News 13</a>, <a href="https://outvoices.us/coming-out-to-the-team/">OUTvoices</a>
   </p>
-  <p><i>Academic research</i>: <a href="https://journals.sagepub.com/doi/full/10.1177/1012690220969355">International Review for the
-   Sociology of Sport</a>
-  </p>
   </blockquote>
   </p>
 
