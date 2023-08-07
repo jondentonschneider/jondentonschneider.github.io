@@ -37,6 +37,10 @@ author_profile: true
 <p>
   Rags to Rags: The Intergenerational Effects of the 1834 Poor Law (<i>with <a href="https://www.jennifer-mayo.com/">Jennifer Mayo</a></i>)
   </p>
+
+<p>
+  Health as Structural Transformation: Evidence from Guinea Worm Disease Eradication in Ghana (<i>with <a href="https://sites.google.com/site/cocarn07"></i>
+</p>
   
 <p>
   Blood Taxes: The Development Effects of Military Conscription in Colonial French West Africa (<i>with <a href="https://sites.google.com/view/jamesalleniv/home">James Allen IV</a></i>)
