@@ -10,9 +10,9 @@ author_profile: true
 <h3>Working Papers</h3>
 
 <p>
-<a href="https://jondentonschneider.com/files/denton-schneider_institutions_hiv.pdf">Colonial Labor Institutions, Marriage Markets, and HIV: Evidence from Mozambique</a>
+<a href="https://jondentonschneider.com/files/denton-schneider_migration_hiv.pdf">Circular Migration, Marriage Markets, and HIV: Long-Run Evidence from Mozambique</a>
   <blockquote>
-  <i>European colonizers used several main institutions to extract wealth from African labor. Narrative evidence suggests that two of them &ndash; one pushing young men into circular migration and another restricting their mobility &ndash; differentially impacted marriage markets with bride price. Specifically, migrants’ earnings may have made them marriageable earlier, thus narrowing spousal age gaps, while low wages under mobility-restricting regimes would have widened these disparities, which later became a major HIV risk factor. I test such hypotheses and their implications using the arbitrary border within Mozambique that separated these institutions for a half-century (1893-1942). Historically, men married earlier on the migrant-sending side, even after the border was erased and circular migration rates converged. Today, this area has lower HIV prevalence and smaller age gaps but similar development outcomes. These results show that differences between extractive colonial institutions matter and that marriage markets are a channel through which history can shape the present.</i>
+  <i>Over the last two centuries, many millions of Africans have engaged in circular migration. I study its long-run impacts on home regions using an arbitrary border within Mozambique that, from 1893 to 1942, separated areas in which authorities either permitted or prohibited it for young men. Surprisingly, though consistent with narrative evidence and a model, living standards are no different while HIV prevalence is lower on the historically migration-permitting side. This health disparity likely arose from partner age gaps, which promote HIV’s spread, having long been smaller on that side because migration made young men in bride price societies marriageable.</i>
   </blockquote>
   </p>
 
