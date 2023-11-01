@@ -6,7 +6,7 @@ excerpt: "Research in development economics, economic history, and health econom
 permalink: /research/
 author_profile: true
 redirect_from:
-  - /files/denton-schneider_institutions_hiv.pdf
+  - https://jondentonschneider.com/files/denton-schneider_institutions_hiv.pdf
 ---
 
 <h3>Working Papers</h3>
