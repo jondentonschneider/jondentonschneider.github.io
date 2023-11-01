@@ -5,8 +5,6 @@ seo_title: "Research - Jon Denton-Schneider"
 excerpt: "Research in development economics, economic history, and health economics"
 permalink: /research/
 author_profile: true
-redirect_from:
-  - /files/denton-schneider_institutions_hiv.pdf
 ---
 
 <h3>Working Papers</h3>
