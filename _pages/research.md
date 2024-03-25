@@ -12,7 +12,7 @@ author_profile: true
 <p>
 <a href="https://jondentonschneider.com/files/denton-schneider_migration_hiv.pdf">Circular Migration, Marriage Markets, and HIV: Long-Run Evidence from Mozambique</a>
   <blockquote>
-  <i>Circular migration has been a mainstay of African life for over two centuries. I study its long-run impacts on sending regions using an arbitrary border within Mozambique that, from 1893 to 1942, separated areas where authorities either permitted or prohibited it for young men. Counterintuitively, but consistent with narratives and theory, living standards change smoothly across this border today while HIV prevalence is lower on the former migrant-sending side. Modern and colonial-era evidence suggests that partner age gaps -- which promote HIV's spread -- have historically been smaller in this region, as circular migration made younger men in bride price societies marriageable.
+  <i>Circular migration has been a mainstay of African life for over two centuries. I study its long-run impacts on sending regions using an arbitrary border within Mozambique that, from 1893 to 1942, separated areas where authorities either permitted or prohibited it for young men. Counterintuitively, but consistent with narratives and theory, living standards change smoothly across this border today while HIV prevalence is lower on the former migrant-sending side. Modern and colonial-era evidence suggests that partner age gaps &ndash; which promote HIV's spread &ndash; have historically been smaller in this region, as circular migration made younger men in bride price societies marriageable.
 </i>
   </blockquote>
   </p>
