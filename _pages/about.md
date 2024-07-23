@@ -17,7 +17,7 @@ I am an Assistant Professor of Economics at <a href="https://www.clarku.edu/depa
 <h3>Research</h3>
 
 <p>
-My <a href="https://jondentonschneider.com/research">research</a> is in development economics and economic history with a focus on human capital &ndash; especially health &ndash; and the intergenerational transmission of poverty in modern and historical developing economies. In my work, I show that:
+My <a href="https://jondentonschneider.com/research">research</a> focuses on human capital &ndash; especially health &ndash; and the intergenerational transmission of poverty in modern and historical developing economies. In my work, I show that:
  <ul>
   <li>Colonial labor policies in Africa shaped its HIV epidemic through their long-run impacts on marriage markets.</li>
   <li>Controlling neglected tropical diseases has important but previously unexplored effects, such as reducing racial inequality in Brazil and young women's HIV rates in Zimbabwe.</li>
