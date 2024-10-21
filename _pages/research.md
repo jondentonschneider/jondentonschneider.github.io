@@ -36,14 +36,14 @@ author_profile: true
   </p>
   
 <p>
-  Rags to Rags: The Effects of the New Poor Law across Three Generations (<i>with <a href="https://www.jennifer-mayo.com/">Jennifer Mayo</a></i>)
+  Rags to Rags: The Multi-Generational Effects of Ending Cash Transfers in Victorian Britain (<i>with <a href="https://www.jennifer-mayo.com/">Jennifer Mayo</a></i>)
   <blockquote>
   <i>We study the intergenerational impacts of cash transfers using the 1834 ("New") Poor Law, which drastically cut the income support that had been provided to 15 percent of the population in England and Wales and cost 2 percent of GDP. We show that in 1861, cohorts more exposed to income-support declines in childhood held lower-skilled jobs as adults and had fewer of their children in school. Linking these sons to the 1901 census, we find the same results for them as adults and for their children, highlighting the importance of accounting for multi-generational effects in cost-benefit analyses of social programs.</i>
   </blockquote>  
 </p>
 
 <p>
-  Health as Structural Transformation: Evidence from Guinea Worm Disease Eradication in Ghana (<i>with <a href="https://sites.google.com/site/cocarn07">Conor Carney</a></i>)
+  Eradicating the Disease of the Empty Granary: Health, Structural Transformation, and Intergenerational Mobility in West Africa (<i>with <a href="https://sites.google.com/site/cocarn07">Conor Carney</a></i>)
 </p>
   
 <p>
