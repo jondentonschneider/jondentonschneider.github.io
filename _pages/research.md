@@ -30,16 +30,22 @@ author_profile: true
   <i>Neglected tropical diseases (NTDs) primarily afflict the poorest people in developing economies and often lead to chronic health issues. Combating them could thus reduce inequality and burdens on healthcare systems in these countries. We show that such novel benefits of disease control indeed arose from Brazil's initial campaign to eliminate Chagas disease (1984-89), which occurs almost entirely among poor, non-white, and rural Latin Americans and can cause long-run heart problems. Exploiting the pre-treatment presence of its main vector, we find that having a childhood free of exposure to this NTD raised non-white Brazilians' incomes by more than twice as much as their white peers' (7.7 vs 3.4 percent), and it decreased the interquartile range of incomes by 3.3 percent. We also estimate that, coinciding with the expected reduction in chronic Chagas disease symptoms, public spending on circulatory disease hospital care declined by 13.5 percent (0.014 percent of 2019 GDP), yielding by itself an internal rate of return of 24.9 percent. These results suggest that NTD control can reduce (racial) disparities in one of the world's most unequal regions while improving the public and fiscal health of developing countries.</i>
   </blockquote>
   </p>
+
+  <p>
+  Rags to Rags: The Intergenerational Effects of Ending Cash Transfers in Victorian Britain (<i>with <a href="https://www.jennifer-mayo.com/">Jennifer Mayo</a></i>)
+  <blockquote>
+  <i>We study the intergenerational impacts of cash transfers using the 1834 ("New") Poor Law, which drastically cut the income support that had been provided to 15 percent of the population in England and Wales and cost 2 percent of GDP. We show that in 1861, cohorts more exposed to income-support declines in childhood held lower-skilled jobs as adults and had fewer of their children in school. Linking these sons to the 1901 census, we find the same results for them as adults and for their children, highlighting the importance of accounting for multi-generational effects in cost-benefit analyses of social programs.</i>
+  </blockquote>  
+</p>
   
 
 
 <h3>Work in Progress</h3>
-  
 
+<p>
+  Crimes against Nature: The Colonial Roots of Homophobia in Sub-Saharan Africa (<i>with <a href="https://www.teevratgarg.com/">Teevrat Garg</a></i>)
+</p>
   
 <p>
-  Rags to Rags: The Multi-Generational Effects of Ending Cash Transfers in Victorian Britain (<i>with <a href="https://www.jennifer-mayo.com/">Jennifer Mayo</a></i>)
-  <blockquote>
-  <i>We study the intergenerational impacts of cash transfers using the 1834 ("New") Poor Law, which drastically cut the income support that had been provided to 15 percent of the population in England and Wales and cost 2 percent of GDP. We show that in 1861, cohorts more exposed to income-support declines in childhood held lower-skilled jobs as adults and had fewer of their children in school. Linking these sons to the 1901 census, we find the same results for them as adults and for their children, highlighting the importance of accounting for multi-generational effects in cost-benefit analyses of social programs.</i>
-  </blockquote>  
+  Eradicating the Disease of the Empty Granary: Health, Structural Transformation, and Intergenerational Mobility in West Africa (<i>with <a href="https://sites.google.com/site/cocarn07">Conor Owen Carney</a></i>)
 </p>
