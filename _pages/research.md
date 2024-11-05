@@ -23,11 +23,7 @@ author_profile: true
   <i>Nearly one-third of new HIV infections in Sub-Saharan Africa occur in young women, largely because their partners are from high-prevalence groups. Since marriage market matching is shaped by human capital, which is influenced by childhood health, can deworming girls lower their chances of contracting HIV as young women? To answer this question, I study Zimbabwe’s school-based deworming program (2012-17), which substantially reduced rates of urogenital schistosomiasis. Using a difference-in-differences design, I find that 3 years after it began, young women’s HIV prevalence fell 2.7 percentage points (p.p., 44 percent) more in high-schistosomiasis districts. Human capital’s effects on marriage market matching appear to explain the results: young women’s secondary school attendance rose 6.0 p.p. (9 percent), and they had less age-disparate and fewer sexual partners. These results show that a cheap treatment for a common childhood disease can also slow an expensive and deadly pandemic, substantially increasing deworming’s estimated benefits.</i>
   </blockquote>
   </p>
-  
 
-
-<h3>Work in Progress</h3>
-  
 <p>
  Disease, Disparities, and Development: Evidence from Chagas Disease Control in Brazil (<i>with <a href="https://www.eduardo-montero.com/">Eduardo Montero</a></i>)
   <blockquote>
@@ -35,24 +31,15 @@ author_profile: true
   </blockquote>
   </p>
   
+
+
+<h3>Work in Progress</h3>
+  
+
+  
 <p>
   Rags to Rags: The Multi-Generational Effects of Ending Cash Transfers in Victorian Britain (<i>with <a href="https://www.jennifer-mayo.com/">Jennifer Mayo</a></i>)
   <blockquote>
   <i>We study the intergenerational impacts of cash transfers using the 1834 ("New") Poor Law, which drastically cut the income support that had been provided to 15 percent of the population in England and Wales and cost 2 percent of GDP. We show that in 1861, cohorts more exposed to income-support declines in childhood held lower-skilled jobs as adults and had fewer of their children in school. Linking these sons to the 1901 census, we find the same results for them as adults and for their children, highlighting the importance of accounting for multi-generational effects in cost-benefit analyses of social programs.</i>
   </blockquote>  
-</p>
-
-<p>
-  Eradicating the Disease of the Empty Granary: Health, Structural Transformation, and Intergenerational Mobility in West Africa (<i>with <a href="https://sites.google.com/site/cocarn07">Conor Carney</a></i>)
-</p>
-  
-<p>
-  Blood Taxes: The Development Effects of Military Conscription in Colonial French West Africa (<i>with <a href="https://sites.google.com/view/jamesalleniv/home">James Allen IV</a></i>)
-  <blockquote>
-  <i>Data collection in progress at the </i>Archives Nationales du Sénégal<i>, Dakar, Senegal</i>
-  </blockquote>
-  </p>
-
-<p>
-The Promises and Pitfalls of Using DHS Data for Comparisons across Countries and National Borders
 </p>
