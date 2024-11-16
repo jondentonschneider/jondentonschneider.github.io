@@ -29,7 +29,7 @@ I collect novel historical and geographical data that I use for causal identific
 <h3>Teaching</h3>
 
 <p>
-I <a href="https://jondentonschneider.com/teaching">teach</a> development economics at the graduate and undergraduate levels as well as principles courses. In teaching evaluations:
+I <a href="https://jondentonschneider.com/teaching">teach</a> economic development at the graduate and undergraduate levels as well as principles courses. In teaching evaluations:
  <ul>
    <li>Graduate students rated my course's contributions to increasing their capacity to think critically and formulate questions as 5/5 (0.63 SD above the university mean for grad classes).</li>
    <li>Undergraduates rated my instructor effectiveness as 4.92/5 (0.55 SD above the university mean for undergrad classes), and a student described me as "one of the best professors [they] have had in the major."</li>
