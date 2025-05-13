@@ -33,7 +33,7 @@ author_profile: true
 <p>
   Eradicating the Disease of the Empty Granary: Health, Structural Transformation, and Intergenerational Mobility in West Africa (<i>with <a href="https://sites.google.com/site/cocarn07">Conor Owen Carney</a></i>)
  <blockquote>
-  <i>Guinea worm disease (GWD) was known as "the disease of the empty granary" because it often incapacitated adult farmers for weeks during peak agricultural seasons. Using a difference-in-differences design, we show that its post-1989 eradication from Ghana increased agricultural productivity in formerly high-GWD districts and improved structural transformation-related outcomes among men born in these areas. We also find spillover effects onto other generations: their children are more likely to be literate and their mothers are more likely to still be alive. These results show that health&mdash; and especially neglected tropical disease control&mdash; can be an important input into macroeconomic development.</i>
+  <i>Guinea worm disease (GWD) was known as "the disease of the empty granary" because it often incapacitated adult farmers for weeks during peak agricultural seasons. Using a difference-in-differences design, we show that its post-1989 eradication from Ghana increased agricultural productivity in formerly high-GWD districts and improved structural transformation-related outcomes among men born in these areas. We also find spillover effects onto other generations: their children are more likely to be literate and their mothers are more likely to still be alive. These results show that health&mdash;and especially neglected tropical disease control&mdash;can be an important input into macroeconomic development.</i>
  </blockquote>
 </p>
 
@@ -44,7 +44,7 @@ author_profile: true
 <p>
 <a href="https://jondentonschneider.com/files/denton-schneider_migration_hiv.pdf">Circular Migration, Marriage Markets, and HIV: Long-Run Evidence from Mozambique</a> [<a href="https://www.aehnetwork.org/working-papers/circular-migration-marriage-markets-and-hiv-long-run-evidence-from-mozambique/"><i>AEHN Working Paper 76</i></a>, <i>under revision</i>]
   <blockquote>
-  <i>I study the impacts of exposure to one of Africa's largest circular migration flows using an arbitrary border within Mozambique that, from 1893 to 1942, separated areas where young men were either pushed into or prevented from migrating. Counterintuitively, but consistent with historical narratives and theoretical predictions, HIV prevalence is lower today on the former migrant-sending side of the border while living standards are similar. The evidence suggests that age gaps between partners&mdash; which promote HIV's spread&mdash; have long been smaller in this region, as circular migration allowed much younger men to afford the requisite marriage payments to brides' families.
+  <i>I study the impacts of exposure to one of Africa's largest circular migration flows using an arbitrary border within Mozambique that, from 1893 to 1942, separated areas where young men were either pushed into or prevented from migrating. Counterintuitively, but consistent with historical narratives and theoretical predictions, HIV prevalence is lower today on the former migrant-sending side of the border while living standards are similar. The evidence suggests that age gaps between partners&mdash;which promote HIV's spread&mdash;have long been smaller in this region, as circular migration allowed much younger men to afford the requisite marriage payments to brides' families.
 </i>
   </blockquote>
   </p>
