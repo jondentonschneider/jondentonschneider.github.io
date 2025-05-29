@@ -34,7 +34,6 @@ ECON 228: Economic Development (<i>Undergrad, Fall 2022-</i>)
   <p><img src="https://jondentonschneider.com/files/denton-schneider_evaluations_clarku_econ128_f22_comments2.png" alt="He genuinely believes that his students are capable of greatness">
   </p>
   </blockquote>
-  </p>
 
 <p>
 ECON 10: Economics and the World Economy (<i>Undergrad, Fall 2023-</i>)
