@@ -38,7 +38,7 @@ ECON 329: Economic Development in Historical and Modern Perspective (<i>PhD, Spr
 <p>
 ECON 128: Intro to Economic Development (<i>Undergrad, Fall 2022-Spring 2024</i>)
   <blockquote>
-  <p><a href="https://jondentonschneider.com/files/denton-schneider_evaluations_clarku_econ128_f22.pdf"><i>Evaluations (Fall 2022)</i></a>
+  <p><i>Fall 2022 evaluation excerpts</i>
   </p>
   <p><img src="https://jondentonschneider.com/files/denton-schneider_evaluations_clarku_econ128_f22_effectiveness.png" alt="Instructor effectiveness 4.92/5">
   </p>
