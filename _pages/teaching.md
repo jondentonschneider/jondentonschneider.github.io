@@ -21,12 +21,20 @@ ECON 228: Economic Development (<i>Undergrad, Spring 2025-</i>)
 
 <p>
 ECON 10: Economics and the World Economy (<i>Undergrad, Fall 2023-</i>)
+  <blockquote>
+  <p><i>Spring 2025 evaluation excerpts</i>
+  </p>
+  <p><img src="https://jondentonschneider.com/files/denton-schneider_evaluations_clarku_econ010_comments1.png" alt="Increasing capacity to think critically and formulate questions 5/5">
+  </p>
+  <p><img src="https://jondentonschneider.com/files/denton-schneider_evaluations_clarku_econ010_comments2.png" alt="Setting and maintaining high standards for student work 5/5">
+  </p>
+  </blockquote>
   </p>
 
 <p>
 ECON 329: Economic Development in Historical and Modern Perspective (<i>PhD, Spring 2023-</i>)
   <blockquote>
-  <p><i>Spring 2023 evaluations excerpts</i>
+  <p><i>Spring 2023 evaluation excerpts</i>
   </p>
   <p><img src="https://jondentonschneider.com/files/denton-schneider_evaluations_clarku_econ329_s23_criticalthinking.png" alt="Increasing capacity to think critically and formulate questions 5/5">
   </p>
