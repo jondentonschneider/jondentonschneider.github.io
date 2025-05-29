@@ -16,7 +16,7 @@ ECON 102: Economics of Inequality (<i>Undergrad, Fall 2025-</i>)
   </p>
 
 <p>
-ECON 228: Economic Development (<i>Undergrad, Fall 2022-</i>)
+ECON 228: Economic Development (<i>Undergrad, Fall 2022-</i>) [<i>Offered as ECON 128: Intro to Economic Development for Fall 2022-Spring 2024</i>]
   <blockquote>
   <p><i>Spring 2025 evaluation excerpts</i>
   </p>
