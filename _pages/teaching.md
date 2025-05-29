@@ -24,7 +24,7 @@ ECON 10: Economics and the World Economy (<i>Undergrad, Fall 2023-</i>)
   <blockquote>
   <p><i>Spring 2025 evaluation excerpts</i>
   </p>
-  <p><img src="https://jondentonschneider.com/files/denton-schneider_evaluations_clarku_econ010_s25_csomments1.png" alt="Increasing capacity to think critically and formulate questions 5/5">
+  <p><img src="https://jondentonschneider.com/files/denton-schneider_evaluations_clarku_econ010_s25_comments1.png" alt="Increasing capacity to think critically and formulate questions 5/5">
   </p>
   <p><img src="https://jondentonschneider.com/files/denton-schneider_evaluations_clarku_econ010_s25_comments2.png" alt="Setting and maintaining high standards for student work 5/5">
   </p>
