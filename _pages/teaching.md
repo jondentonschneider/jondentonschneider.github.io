@@ -7,7 +7,7 @@ permalink: /teaching/
 author_profile: true
 ---
 
-Full evaluations are available upon request.
+<i>Full evaluations are available upon request.</i>
 
 <h3>Clark University</h3>
 
