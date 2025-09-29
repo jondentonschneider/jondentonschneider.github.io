@@ -26,7 +26,7 @@ I was an <a href="https://www.outsports.com/2015/7/14/8938045/jon-denton-schneid
 <h3>Promoting Inclusion in Sports</h3>
 
 <p>
-I used my platform to promote inclusion in college sports by organizing seminars within the Athletics Department and leading an initiative that resulted in over 150 student-athletes and staff publicly committing to being allies for every Arizona Wildcat.
+I used my platform to promote inclusion in college sports by organizing seminars within the Athletics Department and leading an initiative that resulted in over 150 student-athletes and staff publicly committing to supporting all Arizona Wildcats.
  <blockquote>
  <i>Media coverage</i>: <a href="https://www.swimmingworldmagazine.com/news/lgbtqia-rights-in-the-swimming-community/">Swimming World Magazine</a>, <a href="https://www.outsports.com/2015/11/24/9789116/arizona-wildcats-gay-lgbt-banner">Outsports</a>
   </blockquote>
