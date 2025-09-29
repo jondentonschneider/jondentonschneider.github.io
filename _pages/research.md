@@ -24,18 +24,18 @@ author_profile: true
 </p>
 
 <p>
+  <a href="https://jondentonschneider.com/files/carney_denton-schneider_guineaworm.pdf">Eradicating the Disease of the Empty Granary: Health, Structural Transformation, and Intergenerational Mobility in Ghana</a> (<i>with <a href="https://sites.google.com/site/cocarn07">Conor Owen Carney</a></i>)
+ <blockquote>
+  <i>Guinea worm disease (GWD) was known as "the disease of the empty granary" because it often incapacitated adult farmers for weeks during peak agricultural seasons. Using a difference-in-differences design, we show that its post-1989 eradication from Ghana increased agricultural productivity in formerly high-GWD districts and improved structural transformation-related outcomes among men born in these areas. We also find spillover effects onto other generations: their children are more likely to be literate and their mothers are more likely to still be alive. These results show that health&mdash;and especially neglected tropical disease control&mdash;can be an important input into macroeconomic development.</i>
+ </blockquote>
+</p>
+
+<p>
 <a href="https://jondentonschneider.com/files/denton-schneider_deworming_hiv.pdf">Deworming as HIV Prevention for Young Women: Evidence from Zimbabwe</a>
   <blockquote>
   <i>Nearly one-third of new HIV infections in Sub-Saharan Africa occur in young women, largely because their partners are from high-prevalence groups. Since marriage market matching is shaped by human capital, which is influenced by childhood health, can deworming girls lower their chances of contracting HIV as young women? To answer this question, I study Zimbabwe’s school-based deworming program (2012-17), which substantially reduced rates of urogenital schistosomiasis. Using a difference-in-differences design, I find that 3 years after it began, young women’s HIV prevalence fell 2.7 percentage points (p.p., 44 percent) more in high-schistosomiasis districts. Human capital’s effects on marriage market matching appear to explain the results: young women’s secondary school attendance rose 6.0 p.p. (9 percent), and they had less age-disparate and fewer sexual partners. These results show that a cheap treatment for a common childhood disease can also slow an expensive and deadly pandemic, substantially increasing deworming’s estimated benefits.</i>
   </blockquote>
   </p>
-  
-<p>
-  Eradicating the Disease of the Empty Granary: Health, Structural Transformation, and Intergenerational Mobility in West Africa (<i>with <a href="https://sites.google.com/site/cocarn07">Conor Owen Carney</a></i>)
- <blockquote>
-  <i>Guinea worm disease (GWD) was known as "the disease of the empty granary" because it often incapacitated adult farmers for weeks during peak agricultural seasons. Using a difference-in-differences design, we show that its post-1989 eradication from Ghana increased agricultural productivity in formerly high-GWD districts and improved structural transformation-related outcomes among men born in these areas. We also find spillover effects onto other generations: their children are more likely to be literate and their mothers are more likely to still be alive. These results show that health&mdash;and especially neglected tropical disease control&mdash;can be an important input into macroeconomic development.</i>
- </blockquote>
-</p>
 
 
 
