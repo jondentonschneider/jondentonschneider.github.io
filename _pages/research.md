@@ -7,7 +7,8 @@ permalink: /research/
 author_profile: true
 ---
 
-<img src="/images/denton-schneider_rosenkranz.jpeg">
+<img src="/images/denton-schneider_rosenkranz.jpeg" alt="Presenting at the 2025 Rosenkranz Global Health Policy Research Symposium">
+This
 
 <h3>Breaking Intergenerational Cycles of Poverty and Poor Health</h3>
 
