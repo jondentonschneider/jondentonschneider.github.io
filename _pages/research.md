@@ -20,7 +20,7 @@ author_profile: true
   </p>
 
   <p>
-  Rags to Rags: The Intergenerational Effects of Ending Cash Transfers in Victorian Britain (<i>with <a href="https://www.jennifer-mayo.com/">Jennifer Mayo</a></i>) [Funded by <a href="https://reporter.nih.gov/search/F1-guTgTGUWBOBduf_eVTQ/project-details/11233058">NIH grant R03HD117092</a>]
+  Rags to Rags: The Intergenerational Effects of Ending Cash Transfers in Victorian Britain (<i>with <a href="https://www.jennifer-mayo.com/">Jennifer Mayo</a></i>) [<i>Funded by <a href="https://reporter.nih.gov/search/F1-guTgTGUWBOBduf_eVTQ/project-details/11233058">NIH grant R03HD117092</a><i>]
   <blockquote>
   <i>The 1834 ("New") Poor Law drastically cut the income support provided to 15% of the English and Welsh populations at an annual cost of 2% of GDP. We show that in 1861, women with greater childhood exposure to declines in poor relief spending had more children and lower labor force participation rates (consistent with having been married off at younger ages), men were more likely to be in agricultural or service occupations, and their children were less likely to be in school. Linking these sons to the 1891 census, we find no effects on their occupational categories, but their children were also less likely to be in school. Our results highlight the importance of incorporating effects across multiple generations in cost-benefit analyses of social programs.</i>
   </blockquote>  
