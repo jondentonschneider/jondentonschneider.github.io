@@ -7,6 +7,8 @@ permalink: /research/
 author_profile: true
 ---
 
+<img src="denton-schneider_rosenkranz.jpg">
+
 <h3>Breaking Intergenerational Cycles of Poverty and Poor Health</h3>
 
 <p>
