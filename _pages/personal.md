@@ -7,6 +7,9 @@ permalink: /personal/
 author_profile: true
 ---
 
+<img src="/images/denton-schneider_texasinvite.jpg" alt="Competing at the 2011 Texas Hall of Fame Swimming Invitational">
+<i>Photo credit: Stephen Peacock</i>
+
 <h3>Inclusion in Economics</h3>
 
 <p>
