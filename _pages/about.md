@@ -17,7 +17,7 @@ I am an Assistant Professor of Economics at <a href="https://www.clarku.edu/depa
 <h3>Research</h3>
 
 <p>
-My <a href="https://jondentonschneider.com/research">research</a> is in economic development, health economics, and economic history. I have received funding from the National Institutes of Health.
+My <a href="https://jondentonschneider.com/research">research</a> is in economic development, health economics, and economic history, and it has been funded by the National Institutes of Health.
   
   I study 2 main questions:
   <ol>
