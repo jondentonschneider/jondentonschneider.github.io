@@ -10,9 +10,8 @@ author_profile: true
 <img src="/images/denton-schneider_classroom.jpg" alt="Teaching ECON 10 at Clark University in Fall 2025.">
 <i>Photo credit: Steven King/Clark University</i>
 
-<p>
 Full evaluations are available upon request.
-</p>
+<br>
 
 <h3>Clark University</h3>
 
