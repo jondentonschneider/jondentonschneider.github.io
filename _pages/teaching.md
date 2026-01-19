@@ -12,7 +12,7 @@ author_profile: true
 
 Full evaluations are available upon request.
 
-<h3>Clark University</h3>
+<h2>Clark University</h2>
 
 <p>
 ECON 102: Economics of Inequality (<i>Undergrad, Fall 2025-</i>)
