@@ -14,6 +14,24 @@ Full evaluations are available upon request.
 
 <h2>Clark University</h2>
 
+
+
+<h3>PhD Courses</h3>
+
+<p>
+ECON 329: Economic Development in Historical and Modern Perspective (<i>Spring 2023-</i>)
+  <blockquote>
+  <p><i>Spring 2023 evaluation excerpts</i>
+  </p>
+  <p><img src="https://jondentonschneider.com/files/denton-schneider_evaluations_clarku_econ329_s23_criticalthinking.png" alt="Increasing capacity to think critically and formulate questions 5/5">
+  </p>
+  <p><img src="https://jondentonschneider.com/files/denton-schneider_evaluations_clarku_econ329_s23_highstandards.png" alt="Setting and maintaining high standards for student work 5/5">
+  </p>
+  </blockquote>
+  </p>
+
+
+
 <h3>Undergraduate Courses</h3>
 
 <p>
@@ -55,22 +73,6 @@ ECON 102: Economics of Inequality (<i>Fall 2025-</i>) [<i>First-Year Intensive</
   <p><i>Fall 2025 evaluation excerpts</i>
   </p>
   <p><img src="https://jondentonschneider.com/files/denton-schneider_evaluations_clarku_econ102_f25.png" alt="Challenged in ways that contributed to learning">
-  </p>
-  </blockquote>
-  </p>
-
-
-
-<h3>PhD Courses</h3>
-
-<p>
-ECON 329: Economic Development in Historical and Modern Perspective (<i>Spring 2023-</i>)
-  <blockquote>
-  <p><i>Spring 2023 evaluation excerpts</i>
-  </p>
-  <p><img src="https://jondentonschneider.com/files/denton-schneider_evaluations_clarku_econ329_s23_criticalthinking.png" alt="Increasing capacity to think critically and formulate questions 5/5">
-  </p>
-  <p><img src="https://jondentonschneider.com/files/denton-schneider_evaluations_clarku_econ329_s23_highstandards.png" alt="Setting and maintaining high standards for student work 5/5">
   </p>
   </blockquote>
   </p>
