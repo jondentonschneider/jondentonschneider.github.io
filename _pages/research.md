@@ -10,9 +10,9 @@ author_profile: true
 <img src="/images/denton-schneider_rosenkranz.jpeg" alt="Presenting at the 2025 Rosenkranz Global Health Policy Research Symposium">
 <i>Photo credit: Rod Searcey/Stanford Health Policy</i>
 
-<h3>Breaking Intergenerational Cycles of Poverty and Poor Health</h3>
+<h2>Breaking Intergenerational Cycles of Poverty and Poor Health</h2>
 
-<h4>Working Papers</h4>
+<h3>Working Papers</h3>
 
 <p>
 <a href="https://jondentonschneider.com/files/denton-schneider_montero_chagas.pdf">Disease, Disparities, and Development: Evidence from Chagas Disease Control in Brazil</a> (<i>with <a href="https://www.eduardo-montero.com/">Eduardo Montero</a></i>) [<i><a href="https://www.nber.org/papers/w33518">NBER Working Paper 33518</a></i>]
@@ -44,9 +44,9 @@ author_profile: true
 
 
 
-<h3>Historical and Cultural Roots of Hardship and Exclusion</h3>
+<h2>Historical and Cultural Roots of Hardship and Exclusion</h2>
 
-<h4>Working Papers</h4>
+<h3>Working Papers</h3>
 
 <p>
 <a href="https://jondentonschneider.com/files/denton-schneider_migration_hiv.pdf">Circular Migration, Marriage Markets, and HIV: Long-Run Evidence from Mozambique</a> [<a href="https://www.aehnetwork.org/working-papers/circular-migration-marriage-markets-and-hiv-long-run-evidence-from-mozambique/"><i>AEHN Working Paper 76</i></a>]
@@ -63,7 +63,7 @@ author_profile: true
  </blockquote>
 </p>
 
-<h4>Other Publications</h4>
+<h3>Other Publications</h3>
 
 <p>
 <a href="https://jondentonschneider.com/files/denton-schneider_garg_homophobia_p&p.pdf">Prejudice in Sub-Saharan Africa: (Why) Is Homophobia Different?</a> (<i>with <a href="https://www.teevratgarg.com/">Teevrat Garg</a></i>) [<i>AEA Papers and Proceedings, forthcoming</i>]
