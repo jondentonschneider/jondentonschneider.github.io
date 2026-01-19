@@ -65,4 +65,9 @@ author_profile: true
 
 <h4>Other Publications</h4>
 
-
+<p>
+<a href="https://jondentonschneider.com/files/denton-schneider_garg_homophobia_p&p.pdf">Prejudice in Sub-Saharan Africa: (Why) Is Homophobia Different?</a> (<i>with <a href="https://www.teevratgarg.com/">Teevrat Garg</a></i>) [<i>Forthcoming in ]</i>]
+  <blockquote>
+  <i>Prejudices against sexual minorities have been understudied in economics, especially in the low- and middle-income countries where they are harshest. We examine homophobia in Sub-Saharan Africa and show that it is qualitatively different from other biases against outgroups. First, schooling up to the secondary level is unrelated to attitudes toward homosexuals, but it is positively associated with other groups' ratings. The same is true for frequency of religious practice. Additionally, the north-south gradient in attitudes toward homosexuals is in the opposite direction of those in other outgroup ratings. These findings suggest that distinct mechanisms underlie anti-gay prejudice in Sub-Saharan Africa.</i>
+  </blockquote>
+  </p>
