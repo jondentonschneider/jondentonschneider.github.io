@@ -14,7 +14,7 @@ redirect_from:
 I am an Assistant Professor of Economics at <a href="https://www.clarku.edu/departments/economics/">Clark University</a>. I earned my PhD from the University of Michigan in 2022.
 </p>
 
-<h3>Research</h3>
+<h2>Research</h2>
 
 <p>
 My <a href="https://jondentonschneider.com/research">research</a> is in economic development, health economics, and economic history, and it has been funded by the National Institutes of Health.
@@ -28,7 +28,7 @@ I collect novel historical and geographical data that I use for causal identific
 </p>
 
 
-<h3>Teaching</h3>
+<h2>Teaching</h2>
 
 <p>
 I <a href="https://jondentonschneider.com/teaching">teach</a> economic development at the graduate and undergraduate levels as well as principles courses. In teaching evaluations:
@@ -38,7 +38,7 @@ I <a href="https://jondentonschneider.com/teaching">teach</a> economic developme
 </ul>
 </p>
 
-<h3>LGBTQ+ Inclusion</h3>
+<h2>LGBTQ+ Inclusion</h2>
     
 <p>
 As an <a href="https://jondentonschneider.com/personal">openly gay</a> economist, I work to increase inclusion in the profession as a mentor in the <a href="https://sites.google.com/view/csqiep-mentoring">CSQIEP LGBTQ+ Mentorship Program</a>. I did the same in college sports as an out NCAA Division I student-athlete on the University of Arizona Men's Swimming Team.
