@@ -46,6 +46,8 @@ author_profile: true
 
 <h3>Historical and Cultural Roots of Hardship and Exclusion</h3>
 
+<h4>Working Papers</h4>
+
 <p>
 <a href="https://jondentonschneider.com/files/denton-schneider_migration_hiv.pdf">Circular Migration, Marriage Markets, and HIV: Long-Run Evidence from Mozambique</a> [<a href="https://www.aehnetwork.org/working-papers/circular-migration-marriage-markets-and-hiv-long-run-evidence-from-mozambique/"><i>AEHN Working Paper 76</i></a>]
   <blockquote>
@@ -60,3 +62,7 @@ author_profile: true
   <i>Anti-gay prejudice in Sub-Saharan Africa is often justified as being deeply rooted in the region's societies, but anthropologists contend that homophobia largely emerged during the colonial period. We test the hypothesis that Portuguese rule generated less anti-gay attitudes by limiting missionaries' influence over education (culture) and by not fully criminalizing same-sex sexual activity until the eve of decolonization (institutions). Using georeferenced Afrobarometer data and ethnic homeland fixed effects in a regression discontinuity design along national borders, we find substantially less negative attitudes toward homosexuals&mdash;but not other outgroups&mdash;just inside former Portuguese colonies. Proxies of the cultural and institutional channels mediate the largest shares of this effect. We highlight the global costs of this colonial legacy of prejudice by showing that more UK asylum claims by nationals of more homophobic African countries are based in part on sexual orientation, including 45% of all applications by Ugandans.</i>
  </blockquote>
 </p>
+
+<h4>Other Publications</h4>
+
+
