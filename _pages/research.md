@@ -12,6 +12,8 @@ author_profile: true
 
 <h3>Breaking Intergenerational Cycles of Poverty and Poor Health</h3>
 
+<h4>Working Papers</h4>
+
 <p>
 <a href="https://jondentonschneider.com/files/denton-schneider_montero_chagas.pdf">Disease, Disparities, and Development: Evidence from Chagas Disease Control in Brazil</a> (<i>with <a href="https://www.eduardo-montero.com/">Eduardo Montero</a></i>) [<i><a href="https://www.nber.org/papers/w33518">NBER Working Paper 33518</a></i>]
   <blockquote>
@@ -45,7 +47,7 @@ author_profile: true
 <h3>Historical and Cultural Roots of Hardship and Exclusion</h3>
 
 <p>
-<a href="https://jondentonschneider.com/files/denton-schneider_migration_hiv.pdf">Circular Migration, Marriage Markets, and HIV: Long-Run Evidence from Mozambique</a> [<a href="https://www.aehnetwork.org/working-papers/circular-migration-marriage-markets-and-hiv-long-run-evidence-from-mozambique/"><i>AEHN Working Paper 76</i></a>, <i>under revision</i>]
+<a href="https://jondentonschneider.com/files/denton-schneider_migration_hiv.pdf">Circular Migration, Marriage Markets, and HIV: Long-Run Evidence from Mozambique</a> [<a href="https://www.aehnetwork.org/working-papers/circular-migration-marriage-markets-and-hiv-long-run-evidence-from-mozambique/"><i>AEHN Working Paper 76</i></a>]
   <blockquote>
   <i>I study the impacts of exposure to one of Africa's largest circular migration flows using an arbitrary border within Mozambique that, from 1893 to 1942, separated areas where young men were either pushed into or prevented from migrating. Counterintuitively, but consistent with historical narratives and theoretical predictions, HIV prevalence is lower today on the former migrant-sending side of the border while living standards are similar. The evidence suggests that age gaps between partners&mdash;which promote HIV's spread&mdash;have long been smaller in this region, as circular migration allowed much younger men to afford the requisite marriage payments to brides' families.
 </i>
