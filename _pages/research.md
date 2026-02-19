@@ -10,7 +10,7 @@ author_profile: true
 <img src="/images/denton-schneider_rosenkranz.jpeg" alt="Presenting at the 2025 Rosenkranz Global Health Policy Research Symposium">
 <i>Photo credit: Rod Searcey/Stanford Health Policy</i>
 
-<h2>Breaking Intergenerational Cycles of Poverty and Poor Health</h2>
+<h2>Breaking Intergenerational Traps of Poverty and Poor Health</h2>
 
 <h3>Working Papers</h3>
 
