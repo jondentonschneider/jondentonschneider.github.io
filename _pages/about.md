@@ -18,8 +18,9 @@ I am an Assistant Professor of Economics at <a href="https://www.clarku.edu/depa
 
 <p>
 My <a href="https://jondentonschneider.com/research">research</a> is in economic development, health economics, and economic history. It has been funded by the National Institutes of Health and covered by <i>Le Monde</i>.
-  
-  I study 2 main questions:
+</p>
+<p>
+I study 2 main questions:
   <ol>
     <li>What policies have successfully broken intergenerational cycles of poverty and poor health in developing countries, both past and present?</li>
     <li>What are the historical and cultural factors that created such disparities in the first place?</li>
