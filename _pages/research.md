@@ -62,7 +62,7 @@ author_profile: true
   <i>Anti-gay prejudice in Sub-Saharan Africa is often justified as being deeply rooted in the region's societies, but anthropologists contend that homophobia largely emerged during the colonial period. We test the hypothesis that Portuguese rule generated less anti-gay attitudes by limiting missionaries' influence over education (culture) and by not fully criminalizing same-sex sexual activity until the eve of decolonization (institutions). Using georeferenced Afrobarometer data and ethnic homeland fixed effects in a regression discontinuity design along national borders, we find substantially less negative attitudes toward homosexuals&mdash;but not other outgroups&mdash;just inside former Portuguese colonies. Proxies of the cultural and institutional channels mediate the largest shares of this effect. We highlight the global costs of this colonial legacy of prejudice by showing that more UK asylum claims by nationals of more homophobic African countries are based in part on sexual orientation, including 45% of all applications by Ugandans.</i>
  </blockquote>
  <blockquote>
- <i>Media coverage</i>: <a href="https://www.lemonde.fr/afrique/article/2026/04/07/en-afrique-des-lois-de-plus-en-plus-severes-pour-reprimer-l-homosexualite_6677910_3212.html">Le Monde</a>
+ <i>Media coverage</i>: <a href="https://www.lemonde.fr/afrique/article/2026/04/07/en-afrique-des-lois-de-plus-en-plus-severes-pour-reprimer-l-homosexualite_6677910_3212.html"><i>Le Monde</i></a>
   </blockquote>
 </p>
 
